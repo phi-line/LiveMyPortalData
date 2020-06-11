@@ -17,7 +17,7 @@
             "units": "5.00",
             "instructor": "Butler",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -36,7 +36,7 @@
             "units": "5.00",
             "instructor": "Mayer",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -55,7 +55,7 @@
             "units": "5.00",
             "instructor": "Mayer",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ],
@@ -64,7 +64,7 @@
             "course": "ACTG F001A05W",
             "CRN": "10066",
             "desc": "FINANCIAL ACCOUNTING I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -73,8 +73,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Nava",
-            "seats": "26",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -93,7 +93,7 @@
             "units": "5.00",
             "instructor": "Ponleithner",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -104,7 +104,7 @@
             "course": "ACTG F001B03W",
             "CRN": "10072",
             "desc": "FINANCIAL ACCOUNTING II",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -114,7 +114,7 @@
             "units": "5.00",
             "instructor": "Nava",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -144,7 +144,7 @@
             "course": "ACTG F001C01W",
             "CRN": "10001",
             "desc": "MANAGERIAL ACCOUNTING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -153,8 +153,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "4",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ],
@@ -163,7 +163,7 @@
             "course": "ACTG F001C02W",
             "CRN": "10152",
             "desc": "MANAGERIAL ACCOUNTING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -172,8 +172,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "5",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -194,7 +194,7 @@
             "units": "5.00",
             "instructor": "Butler",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -205,7 +205,7 @@
             "course": "ACTG F051B01W",
             "CRN": "10222",
             "desc": "INTERMEDIATE ACCOUNTING II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -214,7 +214,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "12",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -226,7 +226,7 @@
             "course": "ACTG F053.01W",
             "CRN": "10225",
             "desc": "FINANCIAL STATEMENT ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -236,7 +236,7 @@
             "units": "5.00",
             "instructor": "Fakoor",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -245,7 +245,7 @@
             "course": "ACTG F053.02W",
             "CRN": "10321",
             "desc": "FINANCIAL STATEMENT ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -255,7 +255,7 @@
             "units": "5.00",
             "instructor": "Bullock",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -266,7 +266,7 @@
             "course": "ACTG F058.02W",
             "CRN": "10087",
             "desc": "AUDITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -276,7 +276,7 @@
             "units": "5.00",
             "instructor": "Bullock",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -287,7 +287,7 @@
             "course": "ACTG F059.01W",
             "CRN": "10313",
             "desc": "FRAUD EXAMINATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -297,7 +297,7 @@
             "units": "5.00",
             "instructor": "Bowman",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -306,7 +306,7 @@
             "course": "ACTG F059.02W",
             "CRN": "10088",
             "desc": "FRAUD EXAMINATION",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -315,8 +315,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "1",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -377,7 +377,7 @@
             "units": "4.00",
             "instructor": "Gopal",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ],
@@ -386,7 +386,7 @@
             "course": "ACTG F064A03W",
             "CRN": "10342",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -395,8 +395,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "3",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -407,7 +407,7 @@
             "course": "ACTG F064B02W",
             "CRN": "10131",
             "desc": "COMPUTERIZD ACTG PRAC:EXCEL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -417,7 +417,7 @@
             "units": "4.00",
             "instructor": "Glass",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -426,7 +426,7 @@
             "course": "ACTG F064B04W",
             "CRN": "10344",
             "desc": "COMPUTERIZD ACTG PRAC:EXCEL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -436,7 +436,7 @@
             "units": "4.00",
             "instructor": "Wong",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -468,7 +468,7 @@
             "course": "ACTG F066.01W",
             "CRN": "10068",
             "desc": "COST ACCOUNTING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -478,7 +478,7 @@
             "units": "5.00",
             "instructor": "Fakoor",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -541,7 +541,7 @@
             "units": "5.00",
             "instructor": "Sturgess",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -560,7 +560,7 @@
             "units": "5.00",
             "instructor": "Sturgess",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -568,44 +568,6 @@
           {
             "course": "ACTG F076.04W",
             "CRN": "10300",
-            "desc": "ETHICS IN ACCOUNTING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/07/2020",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "5.00",
-            "instructor": "Mendizabal",
-            "seats": "1",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "10311": [
-          {
-            "course": "ACTG F076.05W",
-            "CRN": "10311",
-            "desc": "ETHICS IN ACCOUNTING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/07/2020",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "5.00",
-            "instructor": "Mendizabal",
-            "seats": "34",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "10318": [
-          {
-            "course": "ACTG F076.06W",
-            "CRN": "10318",
             "desc": "ETHICS IN ACCOUNTING",
             "status": "Waitlist",
             "days": "TBA",
@@ -615,9 +577,47 @@
             "room": "ONLINE",
             "campus": "FC",
             "units": "5.00",
+            "instructor": "Mendizabal",
+            "seats": "0",
+            "wait_seats": "13",
+            "wait_cap": "15"
+          }
+        ],
+        "10311": [
+          {
+            "course": "ACTG F076.05W",
+            "CRN": "10311",
+            "desc": "ETHICS IN ACCOUNTING",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Mendizabal",
+            "seats": "0",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          }
+        ],
+        "10318": [
+          {
+            "course": "ACTG F076.06W",
+            "CRN": "10318",
+            "desc": "ETHICS IN ACCOUNTING",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "5.00",
             "instructor": "Chan",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -635,7 +635,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Van Hulsen",
-            "seats": "38",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -660,7 +660,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "St Onge-Cole",
-            "seats": "16",
+            "seats": "11",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -677,7 +677,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "St Onge-Cole",
-            "seats": "16",
+            "seats": "11",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -689,7 +689,7 @@
             "course": "AHS F052.01W",
             "CRN": "10341",
             "desc": "MEDICAL TERMINOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -699,7 +699,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ],
@@ -749,25 +749,6 @@
         ]
       },
       "408Y": {
-        "10790": [
-          {
-            "course": "ALCB F408Y01",
-            "CRN": "10790",
-            "desc": "ART APPRECIATION",
-            "status": "Open",
-            "days": "T",
-            "time": "11:00 AM-01:10 PM",
-            "start": "06/29/2020",
-            "end": "09/04/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Jastrab",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10836": [
           {
             "course": "ALCB F408Y02V",
@@ -1343,7 +1324,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Veronneau",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1459,7 +1440,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Thomson",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1561,25 +1542,6 @@
             "units": "0.00",
             "instructor": "Henkin-Haas",
             "seats": "33",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10792": [
-          {
-            "course": "ALCB F463Y03W",
-            "CRN": "10792",
-            "desc": "CREATIVE WRITING",
-            "status": "Open",
-            "days": "Th",
-            "time": "02:00 PM-04:10 PM",
-            "start": "06/29/2020",
-            "end": "09/04/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Mayall",
-            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1700,25 +1662,6 @@
             "wait_cap": "0"
           }
         ],
-        "10617": [
-          {
-            "course": "ALCB F465Y07W",
-            "CRN": "10617",
-            "desc": "CREATIVE SELF EXPRESSION",
-            "status": "Open",
-            "days": "Th",
-            "time": "02:40 PM-04:50 PM",
-            "start": "06/29/2020",
-            "end": "09/04/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Jastrab",
-            "seats": "30",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10787": [
           {
             "course": "ALCB F465Y08W",
@@ -1817,7 +1760,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Kaupp",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -1834,7 +1777,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Kaupp",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1855,7 +1798,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Kaupp",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1881,7 +1824,7 @@
             "units": "4.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ],
@@ -1900,7 +1843,7 @@
             "units": "4.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
@@ -1919,7 +1862,7 @@
             "units": "4.00",
             "instructor": "King",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ],
@@ -1928,7 +1871,7 @@
             "course": "ANTH F001.04W",
             "CRN": "10590",
             "desc": "INTRO TO PHYSICAL ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1937,8 +1880,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "23",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ],
@@ -1947,7 +1890,7 @@
             "course": "ANTH F001.05W",
             "CRN": "10804",
             "desc": "INTRO TO PHYSICAL ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1956,8 +1899,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "33",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
@@ -1978,7 +1921,7 @@
             "units": "1.00",
             "instructor": "King",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
@@ -1997,7 +1940,7 @@
             "units": "1.00",
             "instructor": "Wolf",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -2018,7 +1961,7 @@
             "units": "4.00",
             "instructor": "Maurer",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ],
@@ -2037,7 +1980,7 @@
             "units": "4.00",
             "instructor": "Maurer",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ]
@@ -2058,7 +2001,7 @@
             "units": "4.00",
             "instructor": "Price",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -2069,7 +2012,7 @@
             "course": "ANTH F006.01W",
             "CRN": "10743",
             "desc": "PEOPLES OF AFRICA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2078,7 +2021,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "17",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2090,7 +2033,7 @@
             "course": "ANTH F008.01W",
             "CRN": "10352",
             "desc": "INTRO TO ARCHAEOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2099,8 +2042,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "19",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ]
@@ -2195,7 +2138,7 @@
             "course": "ART F004A01W",
             "CRN": "10181",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2205,7 +2148,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "30"
           }
         ],
@@ -2214,7 +2157,7 @@
             "course": "ART F004A02W",
             "CRN": "10182",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2224,7 +2167,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "0",
             "wait_cap": "30"
           }
         ]
@@ -2267,7 +2210,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Raivio",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -2328,28 +2271,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Staff",
-            "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "12A": {
-        "10727": [
-          {
-            "course": "ATHL F012A01W",
-            "CRN": "10727",
-            "desc": "PRESEASON COND WMN'S BASKETBAL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "09/18/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Harp",
-            "seats": "32",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2370,7 +2292,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Sharabi",
-            "seats": "22",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2391,7 +2313,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Sharabi",
-            "seats": "11",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2412,7 +2334,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Flannery",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -2433,7 +2355,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2454,7 +2376,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Quan",
-            "seats": "30",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2475,7 +2397,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Quan",
-            "seats": "30",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2495,8 +2417,29 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
-            "instructor": "Staff",
-            "seats": "26",
+            "instructor": "Taylor",
+            "seats": "25",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
+      "42C": {
+        "10843": [
+          {
+            "course": "ATHL F042C01W",
+            "CRN": "10843",
+            "desc": "FUNCT FITNESS WMN'S VOLLEYBALL",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Taylor",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2710,7 +2653,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "3",
             "wait_cap": "20"
           },
           {
@@ -2727,7 +2670,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "3",
             "wait_cap": "20"
           }
         ],
@@ -2746,7 +2689,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "20"
           },
           {
@@ -2763,7 +2706,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "20"
           }
         ]
@@ -2892,7 +2835,7 @@
             "course": "BUSI F018.02W",
             "CRN": "10328",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2902,7 +2845,7 @@
             "units": "5.00",
             "instructor": "Wong",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -2923,7 +2866,7 @@
             "units": "5.00",
             "instructor": "Lew",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "3",
             "wait_cap": "20"
           }
         ],
@@ -2942,7 +2885,7 @@
             "units": "5.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "4",
             "wait_cap": "20"
           }
         ]
@@ -2953,7 +2896,7 @@
             "course": "BUSI F060.01W",
             "CRN": "10780",
             "desc": "FUNDAMENTALS OF FINANCE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2963,7 +2906,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -2997,7 +2940,7 @@
             "course": "C S F001A02W",
             "CRN": "10107",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3007,7 +2950,7 @@
             "units": "4.50",
             "instructor": "Krishnamurthy",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -3016,7 +2959,7 @@
             "course": "C S F001A03W",
             "CRN": "10114",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3026,7 +2969,7 @@
             "units": "4.50",
             "instructor": "Cecil",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ],
@@ -3045,8 +2988,8 @@
             "units": "4.50",
             "instructor": "Weusijana",
             "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "wait_seats": "9",
+            "wait_cap": "25"
           }
         ]
       },
@@ -3066,7 +3009,7 @@
             "units": "4.50",
             "instructor": "Mazloom",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -3075,7 +3018,7 @@
             "course": "C S F001B02W",
             "CRN": "10808",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3084,8 +3027,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "8",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -3115,7 +3058,7 @@
             "course": "C S F002A02W",
             "CRN": "10095",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3124,7 +3067,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lankester",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -3146,7 +3089,7 @@
             "units": "4.50",
             "instructor": "Venkataraman",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "5",
             "wait_cap": "25"
           }
         ]
@@ -3195,7 +3138,7 @@
             "course": "C S F003A05W",
             "CRN": "10809",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3205,7 +3148,7 @@
             "units": "4.50",
             "instructor": "Harden",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -3336,7 +3279,7 @@
             "course": "C S F031A01W",
             "CRN": "10177",
             "desc": "INTRO DATABASE MGMT SYSTEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3346,7 +3289,7 @@
             "units": "4.50",
             "instructor": "Meade",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -3366,7 +3309,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "14",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3378,7 +3321,7 @@
             "course": "C S F055A01Z",
             "CRN": "10831",
             "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-09:50 PM",
             "start": "06/29/2020",
@@ -3387,15 +3330,15 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "9",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
             "course": "C S F055A01Z",
             "CRN": "10831",
             "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3404,8 +3347,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "9",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -3414,7 +3357,7 @@
             "course": "C S F055A02W",
             "CRN": "10832",
             "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3423,8 +3366,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "13",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -3435,7 +3378,7 @@
             "course": "C S F055D01W",
             "CRN": "10750",
             "desc": "SECURITY IN AWS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3445,7 +3388,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -3460,7 +3403,7 @@
             "course": "CHEM F001A01Y",
             "CRN": "10065",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "11:00 AM-12:50 PM",
             "start": "06/29/2020",
@@ -3470,14 +3413,14 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001A01Y",
             "CRN": "10065",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "09:00 AM-10:15 AM",
             "start": "06/29/2020",
@@ -3487,14 +3430,14 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001A01Y",
             "CRN": "10065",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3504,14 +3447,14 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001A01Y",
             "CRN": "10065",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3521,7 +3464,7 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -3661,7 +3604,7 @@
             "course": "CHEM F012C01W",
             "CRN": "10145",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3670,8 +3613,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Painter",
-            "seats": "8",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "8"
           }
         ],
@@ -3689,7 +3632,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "9",
+            "seats": "3",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -3706,7 +3649,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "9",
+            "seats": "3",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -3754,7 +3697,7 @@
             "course": "CHEM F025.02Y",
             "CRN": "10355",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3764,14 +3707,14 @@
             "units": "5.00",
             "instructor": "Stepp",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           },
           {
             "course": "CHEM F025.02Y",
             "CRN": "10355",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "09:00 AM-10:50 AM",
             "start": "06/29/2020",
@@ -3781,7 +3724,7 @@
             "units": "5.00",
             "instructor": "Stepp",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           }
         ],
@@ -3798,7 +3741,7 @@
             "room": "ESPREP",
             "campus": "FO",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Taylor",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -3815,7 +3758,7 @@
             "room": "ESPREP",
             "campus": "FO",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Taylor",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -3832,7 +3775,7 @@
             "room": "ESPREP",
             "campus": "FO",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Taylor",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -3933,7 +3876,7 @@
             "units": "4.00",
             "instructor": "Dominguez",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ]
@@ -3954,7 +3897,7 @@
             "units": "4.00",
             "instructor": "Stirling",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -3975,7 +3918,7 @@
             "units": "4.00",
             "instructor": "Dave",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ]
@@ -3986,7 +3929,7 @@
             "course": "CHLD F051A01W",
             "CRN": "10451",
             "desc": "AFFIRM DIVERSITY IN EDUCATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3996,7 +3939,7 @@
             "units": "4.00",
             "instructor": "Latta",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -4007,7 +3950,7 @@
             "course": "CHLD F095.01W",
             "CRN": "10452",
             "desc": "HEALTH/SAFETY/NUTRITION CHLD P",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4016,8 +3959,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Giotta",
-            "seats": "10",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -4032,7 +3975,7 @@
             "course": "CNSL F005.01W",
             "CRN": "10777",
             "desc": "INTRODUCTION TO COLLEGE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4041,8 +3984,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Thao",
-            "seats": "8",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -4060,7 +4003,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Jackson Sandoval",
-            "seats": "25",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4079,7 +4022,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Freeman",
-            "seats": "18",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4140,7 +4083,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Nava",
-            "seats": "29",
+            "seats": "24",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -4385,7 +4328,7 @@
             "units": "5.00",
             "instructor": "Meneses",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -4396,7 +4339,7 @@
             "course": "COMM F010.01W",
             "CRN": "10265",
             "desc": "GENDER, COMMUNICATION & CULTUR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4405,8 +4348,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sunseri",
-            "seats": "2",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -4415,7 +4358,7 @@
             "course": "COMM F010.02W",
             "CRN": "10495",
             "desc": "GENDER, COMMUNICATION & CULTUR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4424,8 +4367,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "1",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -4490,7 +4433,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -4509,7 +4452,7 @@
             "units": "4.00",
             "instructor": "Villanueva",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ]
@@ -4524,7 +4467,7 @@
             "course": "CRWR F041A01W",
             "CRN": "10737",
             "desc": "POETRY WRITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4534,7 +4477,7 @@
             "units": "5.00",
             "instructor": "Huerta",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ]
@@ -4558,7 +4501,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Leicht",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4575,7 +4518,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Leicht",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4592,7 +4535,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Leicht",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4609,7 +4552,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Hoang",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4651,7 +4594,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Spragge",
-            "seats": "7",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4668,7 +4611,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Brennan",
-            "seats": "7",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4685,7 +4628,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Spragge",
-            "seats": "7",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4702,7 +4645,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Brennan",
-            "seats": "7",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4719,7 +4662,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Spragge",
-            "seats": "7",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4740,7 +4683,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Walker",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4757,7 +4700,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Brennan",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4774,7 +4717,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Hoang",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4791,7 +4734,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Danh",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4808,7 +4751,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Chan",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4825,7 +4768,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Leicht",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4842,7 +4785,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Yamamoto",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4859,7 +4802,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Staana",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4880,7 +4823,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Chan",
-            "seats": "10",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4897,7 +4840,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Staana",
-            "seats": "10",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4914,7 +4857,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Yamamoto",
-            "seats": "10",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4931,7 +4874,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Staana",
-            "seats": "10",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4957,7 +4900,7 @@
             "units": "5.00",
             "instructor": "Patyk",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ],
@@ -4995,7 +4938,26 @@
             "units": "5.00",
             "instructor": "Verissimo Ira",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "4",
+            "wait_cap": "20"
+          }
+        ],
+        "10840": [
+          {
+            "course": "ECON F001A04W",
+            "CRN": "10840",
+            "desc": "PRINCIPLES OF MACROECONOMICS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Verissimo Ira",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "20"
           }
         ]
@@ -5006,7 +4968,7 @@
             "course": "ECON F001B01W",
             "CRN": "10048",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5016,7 +4978,7 @@
             "units": "5.00",
             "instructor": "Evans",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ],
@@ -5025,7 +4987,7 @@
             "course": "ECON F001B02W",
             "CRN": "10049",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5035,7 +4997,7 @@
             "units": "5.00",
             "instructor": "Evans",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -5059,7 +5021,7 @@
             "campus": "FO",
             "units": "4.50",
             "instructor": "Middleton",
-            "seats": "12",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -5076,7 +5038,7 @@
             "campus": "FO",
             "units": "4.50",
             "instructor": "Culbertson",
-            "seats": "12",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -5093,7 +5055,7 @@
             "campus": "FO",
             "units": "4.50",
             "instructor": "Ikegami",
-            "seats": "12",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5119,7 +5081,7 @@
             "units": "5.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "12",
             "wait_cap": "25"
           }
         ],
@@ -5138,7 +5100,7 @@
             "units": "5.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "21",
+            "wait_seats": "13",
             "wait_cap": "25"
           }
         ],
@@ -5157,7 +5119,7 @@
             "units": "5.00",
             "instructor": "Escamilla",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "12",
             "wait_cap": "25"
           }
         ],
@@ -5176,7 +5138,7 @@
             "units": "5.00",
             "instructor": "Escamilla",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "13",
             "wait_cap": "25"
           }
         ],
@@ -5216,7 +5178,7 @@
             "units": "5.00",
             "instructor": "Armerding",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "10",
             "wait_cap": "25"
           }
         ],
@@ -5235,7 +5197,7 @@
             "units": "5.00",
             "instructor": "La Piana",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "16",
             "wait_cap": "25"
           }
         ],
@@ -5244,7 +5206,7 @@
             "course": "ENGL F001B03W",
             "CRN": "10070",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5254,7 +5216,7 @@
             "units": "5.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ],
@@ -5273,7 +5235,7 @@
             "units": "5.00",
             "instructor": "Chan",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "18",
             "wait_cap": "25"
           }
         ],
@@ -5282,7 +5244,7 @@
             "course": "ENGL F001B05W",
             "CRN": "10215",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5292,7 +5254,7 @@
             "units": "5.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ]
@@ -5313,7 +5275,7 @@
             "units": "5.00",
             "instructor": "Herman",
             "seats": "0",
-            "wait_seats": "21",
+            "wait_seats": "14",
             "wait_cap": "25"
           }
         ]
@@ -5370,7 +5332,7 @@
             "course": "ENGR F037.01W",
             "CRN": "10297",
             "desc": "INTRO TO CIRCUIT ANALYSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5379,8 +5341,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "2",
-            "wait_seats": "40",
+            "seats": "0",
+            "wait_seats": "36",
             "wait_cap": "40"
           }
         ]
@@ -5488,7 +5450,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "13",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -5505,7 +5467,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "13",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -5526,7 +5488,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "15",
+            "seats": "13",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -5543,7 +5505,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "15",
+            "seats": "13",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -5554,6 +5516,42 @@
   "GEOG": {
     "1": {
       "1": {
+        "10839": [
+          {
+            "course": "GEOG F001.01W",
+            "CRN": "10839",
+            "desc": "PHYSICAL GEOGRAPHY",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Hansell",
+            "seats": "0",
+            "wait_seats": "10",
+            "wait_cap": "20"
+          },
+          {
+            "course": "GEOG F001.01W",
+            "CRN": "10839",
+            "desc": "PHYSICAL GEOGRAPHY",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Hansell",
+            "seats": "0",
+            "wait_seats": "10",
+            "wait_cap": "20"
+          }
+        ],
         "10012": [
           {
             "course": "GEOG F001.02W",
@@ -5569,7 +5567,7 @@
             "units": "5.00",
             "instructor": "Davis",
             "seats": "0",
-            "wait_seats": "-2",
+            "wait_seats": "0",
             "wait_cap": "8"
           }
         ],
@@ -5588,7 +5586,7 @@
             "units": "5.00",
             "instructor": "Hansell",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ],
@@ -5597,7 +5595,7 @@
             "course": "GEOG F001.05W",
             "CRN": "10561",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5607,7 +5605,7 @@
             "units": "5.00",
             "instructor": "Cuevas",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "5",
             "wait_cap": "20"
           }
         ]
@@ -5643,7 +5641,7 @@
             "course": "GID F001.01W",
             "CRN": "10370",
             "desc": "HISTORY OF GRAPHIC DESIGN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5653,7 +5651,7 @@
             "units": "4.00",
             "instructor": "Day",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -5664,7 +5662,7 @@
             "course": "GID F031.01W",
             "CRN": "10718",
             "desc": "GRAPHIC DESIGN DRAWING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5674,7 +5672,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -5685,7 +5683,7 @@
             "course": "GID F033.01W",
             "CRN": "10719",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5695,7 +5693,7 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "30"
           }
         ]
@@ -5706,7 +5704,7 @@
             "course": "GID F055.01W",
             "CRN": "10720",
             "desc": "USER EXPRNCE (UI/UX) DESIGN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5716,7 +5714,7 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "30"
           }
         ]
@@ -5773,7 +5771,7 @@
             "course": "HIST F004B01W",
             "CRN": "10052",
             "desc": "HISTORY OF WESTN CIV 700-1800",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5782,8 +5780,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Coburn",
-            "seats": "11",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -5794,7 +5792,7 @@
             "course": "HIST F004C02W",
             "CRN": "10274",
             "desc": "HISTORY OF WEST CIV 1789-PRES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5803,8 +5801,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "20",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -5825,7 +5823,7 @@
             "units": "4.00",
             "instructor": "Fung",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ],
@@ -5844,7 +5842,7 @@
             "units": "4.00",
             "instructor": "Bush",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -5865,7 +5863,7 @@
             "units": "4.00",
             "instructor": "Batham",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ],
@@ -5874,7 +5872,7 @@
             "course": "HIST F017C04W",
             "CRN": "10310",
             "desc": "HISTORY OF US FROM 1914 TO PRE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5883,8 +5881,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "12",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -5939,7 +5937,7 @@
             "course": "HLTH F021.01W",
             "CRN": "10261",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5949,7 +5947,7 @@
             "units": "4.00",
             "instructor": "Horowitz",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -5977,7 +5975,7 @@
             "course": "HLTH F021.03W",
             "CRN": "10825",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5986,8 +5984,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "33",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -6011,7 +6009,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Niccoli",
-            "seats": "10",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -6028,7 +6026,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Niccoli",
-            "seats": "10",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6058,10 +6056,10 @@
             "wait_cap": "20"
           }
         ],
-        "10385": [
+        "10846": [
           {
-            "course": "HUMN F001.03W",
-            "CRN": "10385",
+            "course": "HUMN F001.02W",
+            "CRN": "10846",
             "desc": "THE ANCIENT WORLD",
             "status": "Open",
             "days": "TBA",
@@ -6071,8 +6069,46 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
+            "instructor": "Dargahi",
+            "seats": "6",
+            "wait_seats": "20",
+            "wait_cap": "20"
+          }
+        ],
+        "10385": [
+          {
+            "course": "HUMN F001.03W",
+            "CRN": "10385",
+            "desc": "THE ANCIENT WORLD",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
             "instructor": "McGuire",
-            "seats": "4",
+            "seats": "0",
+            "wait_seats": "18",
+            "wait_cap": "20"
+          }
+        ],
+        "10847": [
+          {
+            "course": "HUMN F001.04W",
+            "CRN": "10847",
+            "desc": "THE ANCIENT WORLD",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Dargahi",
+            "seats": "46",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6084,7 +6120,7 @@
             "course": "HUMN F003.02W",
             "CRN": "10307",
             "desc": "WORLD MYTHS IN LIT ARTS & FILM",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6093,7 +6129,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "20"
           }
@@ -6115,7 +6151,7 @@
             "units": "4.00",
             "instructor": "Latteri",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -6134,7 +6170,7 @@
             "units": "4.00",
             "instructor": "Latteri",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ],
@@ -6143,7 +6179,7 @@
             "course": "HUMN F005.04W",
             "CRN": "10386",
             "desc": "THE MODERN WORLD",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6152,27 +6188,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mitrovici",
-            "seats": "28",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "10391": [
-          {
-            "course": "HUMN F005.05W",
-            "CRN": "10391",
-            "desc": "THE MODERN WORLD",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/07/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mitrovici",
-            "seats": "48",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -6183,7 +6200,7 @@
             "course": "HUMN F006.01W",
             "CRN": "10347",
             "desc": "FROM MODERN TO CONTEMPORARY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6192,8 +6209,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gonnerman",
-            "seats": "5",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
@@ -6202,7 +6219,7 @@
             "course": "HUMN F006.02W",
             "CRN": "10348",
             "desc": "FROM MODERN TO CONTEMPORARY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6211,26 +6228,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lore",
-            "seats": "35",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "10388": [
-          {
-            "course": "HUMN F006.03W",
-            "CRN": "10388",
-            "desc": "FROM MODERN TO CONTEMPORARY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/07/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Lore",
-            "seats": "50",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6250,7 +6248,7 @@
             "units": "4.00",
             "instructor": "Kashani",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ],
@@ -6268,26 +6266,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dargahi",
-            "seats": "39",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "10589": [
-          {
-            "course": "HUMN F006.06W",
-            "CRN": "10589",
-            "desc": "FROM MODERN TO CONTEMPORARY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/07/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Dargahi",
-            "seats": "45",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6309,7 +6288,7 @@
             "units": "4.00",
             "instructor": "Kashani",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ]
@@ -6354,7 +6333,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gandhi",
-            "seats": "25",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6413,7 +6392,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Cammin",
-            "seats": "15",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6453,7 +6432,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Cammin",
-            "seats": "13",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6499,6 +6478,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "10844": [
+          {
+            "course": "ITRN F054.02",
+            "CRN": "10844",
+            "desc": "INTERNSHIP",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "09/18/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Cammin",
+            "seats": "40",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       }
     }
@@ -6511,7 +6509,7 @@
             "course": "JAPN F001.01W",
             "CRN": "10744",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6521,7 +6519,7 @@
             "units": "5.00",
             "instructor": "Yasutake",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "50"
           }
         ]
@@ -6541,7 +6539,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "10",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -6557,7 +6555,7 @@
             "course": "KINS F001.01W",
             "CRN": "10124",
             "desc": "INTRODUCTION TO KINESIOLOGY",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6566,8 +6564,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -6578,7 +6576,7 @@
             "course": "KINS F002.01W",
             "CRN": "10125",
             "desc": "SPORT IN SOCIETY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6587,8 +6585,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "22",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -6599,7 +6597,7 @@
             "course": "KINS F004.01W",
             "CRN": "10717",
             "desc": "CONCEPTS OF PHYS FITNESS/WELLN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6608,8 +6606,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bissell",
-            "seats": "2",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -6620,7 +6618,7 @@
             "course": "KINS F009.01W",
             "CRN": "10126",
             "desc": "BASIC NUTRITION SPORTS/FITNESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6629,8 +6627,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "2",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -6675,7 +6673,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bustamante",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6696,7 +6694,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Bustamante",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6717,7 +6715,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6734,7 +6732,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6755,7 +6753,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6772,7 +6770,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6831,7 +6829,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Cavada",
-            "seats": "44",
+            "seats": "42",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6852,7 +6850,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "35",
+            "seats": "33",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6869,7 +6867,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "35",
+            "seats": "33",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6890,7 +6888,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6907,45 +6905,45 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
         ]
       },
-      "77C": {
-        "10706": [
+      "78B": {
+        "10842": [
           {
-            "course": "LINC F077C01Y",
-            "CRN": "10706",
-            "desc": "DESIGN THINKING FOR TEACHERS",
+            "course": "LINC F078B01Z",
+            "CRN": "10842",
+            "desc": "BLOCK BASED CODING CONCEPTS",
             "status": "Open",
             "days": "TWThF",
             "time": "10:30 AM-11:50 AM",
             "start": "07/28/2020",
-            "end": "09/17/2020",
+            "end": "09/18/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "33",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           },
           {
-            "course": "LINC F077C01Y",
-            "CRN": "10706",
-            "desc": "DESIGN THINKING FOR TEACHERS",
+            "course": "LINC F078B01Z",
+            "CRN": "10842",
+            "desc": "BLOCK BASED CODING CONCEPTS",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "07/28/2020",
-            "end": "09/17/2020",
+            "end": "09/18/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "33",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7063,7 +7061,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -7080,7 +7078,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7515,7 +7513,7 @@
             "course": "MATH F105.03W",
             "CRN": "10059",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7525,7 +7523,7 @@
             "units": "5.00",
             "instructor": "Perino",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -7660,7 +7658,7 @@
             "course": "MDIA F002C01W",
             "CRN": "10219",
             "desc": "CURRENT TRENDS FILM/TV/INTERNE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7670,7 +7668,7 @@
             "units": "4.00",
             "instructor": "Ward",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -7740,7 +7738,7 @@
             "course": "MDIA F011.03W",
             "CRN": "10073",
             "desc": "INTRO TO POPULAR CULTURE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7750,7 +7748,7 @@
             "units": "4.00",
             "instructor": "Thornton",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -7761,7 +7759,7 @@
             "course": "MDIA F012.01W",
             "CRN": "10074",
             "desc": "POPULAR CULTURE & US HISTORY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7771,7 +7769,7 @@
             "units": "4.00",
             "instructor": "Thornton",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -7782,7 +7780,7 @@
             "course": "MDIA F013.01W",
             "CRN": "10220",
             "desc": "VIDEO GAMES & POPULAR CULTURE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7792,7 +7790,7 @@
             "units": "4.00",
             "instructor": "Kuehnl",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -7807,7 +7805,7 @@
             "course": "MTEC F050A01W",
             "CRN": "10476",
             "desc": "INTRO TO MUSIC TECHNOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7817,7 +7815,7 @@
             "units": "4.00",
             "instructor": "Tambling",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -7838,7 +7836,7 @@
             "units": "4.00",
             "instructor": "Tambling",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -7859,7 +7857,7 @@
             "units": "4.00",
             "instructor": "Tambling",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -7870,7 +7868,7 @@
             "course": "MTEC F070A01W",
             "CRN": "10165",
             "desc": "PRO TOOLS 101\u2013AVID CERTIF",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7879,8 +7877,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "1",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -7914,7 +7912,7 @@
             "course": "MUS F001.02W",
             "CRN": "10097",
             "desc": "INTRODUCTION TO MUSIC",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7924,7 +7922,7 @@
             "units": "4.00",
             "instructor": "Shea",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -7935,7 +7933,7 @@
             "course": "MUS F002D01W",
             "CRN": "10721",
             "desc": "WORLD MUSIC:ROOTS TO CONTMP",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7945,7 +7943,7 @@
             "units": "5.00",
             "instructor": "Barkley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -7956,7 +7954,7 @@
             "course": "MUS F003A01W",
             "CRN": "10302",
             "desc": "THEORY & MUSICIANSHIP I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7966,7 +7964,7 @@
             "units": "5.00",
             "instructor": "Cratty",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -8013,7 +8011,7 @@
             "course": "MUS F008.02W",
             "CRN": "10723",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8023,14 +8021,14 @@
             "units": "5.00",
             "instructor": "Carey",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "MUS F008.02W",
             "CRN": "10723",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8040,7 +8038,7 @@
             "units": "5.00",
             "instructor": "Barkley",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -8144,7 +8142,7 @@
             "course": "MUS F010.02W",
             "CRN": "10301",
             "desc": "MUSIC FUNDAMENTALS",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8153,8 +8151,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cratty",
-            "seats": "10",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -8228,7 +8226,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "34",
+            "seats": "28",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -8249,7 +8247,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Sarver",
-            "seats": "10",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -8265,7 +8263,7 @@
             "course": "PHDA F015A01W",
             "CRN": "10806",
             "desc": "MODIFIED TOTAL FITNESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8274,7 +8272,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8295,7 +8293,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "29",
+            "seats": "25",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8311,7 +8309,7 @@
             "course": "PHED F021A01W",
             "CRN": "10805",
             "desc": "BEGINNING HATHA YOGA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "05:30 PM-06:45 PM",
             "start": "06/29/2020",
@@ -8320,8 +8318,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "22",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -8342,7 +8340,7 @@
             "units": "1.00",
             "instructor": "Flannery",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -8360,7 +8358,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "21",
+            "seats": "1",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -8382,7 +8380,7 @@
             "units": "1.00",
             "instructor": "Flannery",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -8391,7 +8389,7 @@
             "course": "PHED F022C02W",
             "CRN": "10761",
             "desc": "CORE CONDITIONING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "05:30 PM-06:45 PM",
             "start": "06/29/2020",
@@ -8400,8 +8398,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "31",
-            "wait_seats": "30",
+            "seats": "0",
+            "wait_seats": "29",
             "wait_cap": "30"
           }
         ]
@@ -8412,7 +8410,7 @@
             "course": "PHED F027.01W",
             "CRN": "10756",
             "desc": "WALK FOR HEALTH",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8422,7 +8420,7 @@
             "units": "1.00",
             "instructor": "O'Loughlin",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -8443,7 +8441,7 @@
             "units": "1.00",
             "instructor": "O'Loughlin",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -8464,7 +8462,7 @@
             "units": "1.00",
             "instructor": "O'Loughlin",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -8485,7 +8483,7 @@
             "units": "1.00",
             "instructor": "O'Loughlin",
             "seats": "0",
-            "wait_seats": "30",
+            "wait_seats": "26",
             "wait_cap": "30"
           }
         ]
@@ -8496,7 +8494,7 @@
             "course": "PHED F047C01W",
             "CRN": "10753",
             "desc": "HIGH-INTENSITY TRAINING (HIIT)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8505,8 +8503,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "5",
-            "wait_seats": "30",
+            "seats": "0",
+            "wait_seats": "28",
             "wait_cap": "30"
           }
         ]
@@ -8531,7 +8529,7 @@
             "units": "5.00",
             "instructor": "Hoekenga",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "4",
             "wait_cap": "20"
           }
         ]
@@ -8552,7 +8550,7 @@
             "units": "4.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ],
@@ -8561,7 +8559,7 @@
             "course": "PHIL F004.02W",
             "CRN": "10115",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8571,7 +8569,7 @@
             "units": "4.00",
             "instructor": "Provost",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ],
@@ -8590,7 +8588,7 @@
             "units": "4.00",
             "instructor": "Hanson",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -8609,7 +8607,7 @@
             "units": "4.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ],
@@ -8628,7 +8626,7 @@
             "units": "4.00",
             "instructor": "Rawal",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ],
@@ -8647,7 +8645,7 @@
             "units": "4.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -8666,7 +8664,7 @@
             "units": "4.00",
             "instructor": "Rawal",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ]
@@ -8687,7 +8685,7 @@
             "units": "5.00",
             "instructor": "Tapia",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -8706,7 +8704,7 @@
             "units": "5.00",
             "instructor": "Hoekenga",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ],
@@ -8715,7 +8713,7 @@
             "course": "PHIL F008.03W",
             "CRN": "10170",
             "desc": "ETHICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8724,8 +8722,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "27",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -8736,7 +8734,7 @@
             "course": "PHIL F025.01W",
             "CRN": "10229",
             "desc": "COMP WRLD RELIGIONS WEST",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8746,7 +8744,7 @@
             "units": "4.00",
             "instructor": "Provost",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -8771,7 +8769,7 @@
             "units": "4.00",
             "instructor": "Jordahl",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -8877,7 +8875,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Su",
-            "seats": "12",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8929,7 +8927,7 @@
             "course": "PHYS F004A02W",
             "CRN": "10022",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:30 AM-12:45 PM",
             "start": "06/29/2020",
@@ -8938,7 +8936,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Wienands",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -8946,7 +8944,7 @@
             "course": "PHYS F004A02W",
             "CRN": "10022",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "01:00 PM-03:50 PM",
             "start": "06/29/2020",
@@ -8955,7 +8953,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Lau",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -8967,7 +8965,7 @@
             "course": "PHYS F004B03W",
             "CRN": "10564",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:30 AM-12:45 PM",
             "start": "06/29/2020",
@@ -8977,14 +8975,14 @@
             "units": "6.00",
             "instructor": "Yuen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B03W",
             "CRN": "10564",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "01:00 PM-03:50 PM",
             "start": "06/29/2020",
@@ -8994,7 +8992,7 @@
             "units": "6.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -9003,7 +9001,7 @@
             "course": "PHYS F004B04W",
             "CRN": "10749",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:30 AM-12:45 PM",
             "start": "06/29/2020",
@@ -9013,14 +9011,14 @@
             "units": "6.00",
             "instructor": "Yuen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B04W",
             "CRN": "10749",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:00 PM-03:50 PM",
             "start": "06/29/2020",
@@ -9030,7 +9028,7 @@
             "units": "6.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -9051,7 +9049,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -9160,7 +9158,7 @@
             "units": "5.00",
             "instructor": "Woolcock",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ],
@@ -9169,7 +9167,7 @@
             "course": "POLI F001.03W",
             "CRN": "10136",
             "desc": "POLI SCI:INTRO AMERICAN GOVN/P",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9178,8 +9176,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "33",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -9198,7 +9196,7 @@
             "units": "5.00",
             "instructor": "Ryer",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ]
@@ -9209,7 +9207,7 @@
             "course": "POLI F002.01W",
             "CRN": "10137",
             "desc": "COMPARATVE GOVT/POLITICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9219,7 +9217,7 @@
             "units": "4.00",
             "instructor": "Callow",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -9230,7 +9228,7 @@
             "course": "POLI F015.01W",
             "CRN": "10454",
             "desc": "INT'L RELATIONS/WORLD POLITICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9240,7 +9238,7 @@
             "units": "4.00",
             "instructor": "Ryer",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -9265,7 +9263,7 @@
             "units": "5.00",
             "instructor": "Robins",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ],
@@ -9284,7 +9282,7 @@
             "units": "5.00",
             "instructor": "Tuttle",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ],
@@ -9303,7 +9301,7 @@
             "units": "5.00",
             "instructor": "Strader",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ],
@@ -9312,7 +9310,7 @@
             "course": "PSYC F001.04W",
             "CRN": "10025",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9322,7 +9320,7 @@
             "units": "5.00",
             "instructor": "Pilati Corselli",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -9341,7 +9339,7 @@
             "units": "5.00",
             "instructor": "Tuttle",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ],
@@ -9360,7 +9358,26 @@
             "units": "5.00",
             "instructor": "Strader",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "20"
+          }
+        ],
+        "10845": [
+          {
+            "course": "PSYC F001.07W",
+            "CRN": "10845",
+            "desc": "GENERAL PSYCHOLOGY",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Clark",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ]
@@ -9371,7 +9388,7 @@
             "course": "PSYC F004.01W",
             "CRN": "10146",
             "desc": "INTRO TO BIOPSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9381,7 +9398,7 @@
             "units": "5.00",
             "instructor": "Melucci",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -9402,7 +9419,7 @@
             "units": "5.00",
             "instructor": "Gauthier",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "20"
           }
         ],
@@ -9421,7 +9438,7 @@
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ]
@@ -9442,7 +9459,7 @@
             "units": "4.00",
             "instructor": "Villanueva",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ]
@@ -9453,7 +9470,7 @@
             "course": "PSYC F030.01W",
             "CRN": "10026",
             "desc": "SOCIAL PSYCHOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9463,7 +9480,7 @@
             "units": "4.00",
             "instructor": "Cormier",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -9474,7 +9491,7 @@
             "course": "PSYC F039.01W",
             "CRN": "10176",
             "desc": "PSYCHOLOGY OF SPORTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9483,8 +9500,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "7",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ]
@@ -9495,7 +9512,7 @@
             "course": "PSYC F040.01W",
             "CRN": "10046",
             "desc": "HUMAN DEVELOPMENT",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9505,7 +9522,7 @@
             "units": "5.00",
             "instructor": "Clark",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ],
@@ -9524,7 +9541,7 @@
             "units": "5.00",
             "instructor": "Paulos",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "5",
             "wait_cap": "20"
           }
         ]
@@ -9545,7 +9562,7 @@
             "units": "4.00",
             "instructor": "Gerry",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ]
@@ -9560,7 +9577,7 @@
             "course": "R T F050.01",
             "CRN": "10767",
             "desc": "ORIENT TO RADIATION SCI TECH",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9569,7 +9586,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Campbell",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9581,7 +9598,7 @@
             "course": "R T F051A01Y",
             "CRN": "10774",
             "desc": "FUNDAMENTALS OF RAD TECH I",
-            "status": "Open",
+            "status": "Full",
             "days": "M",
             "time": "08:00 AM-10:50 AM",
             "start": "07/06/2020",
@@ -9590,7 +9607,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9598,7 +9615,7 @@
             "course": "R T F051A01Y",
             "CRN": "10774",
             "desc": "FUNDAMENTALS OF RAD TECH I",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "07/06/2020",
@@ -9607,7 +9624,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9666,7 +9683,7 @@
             "campus": "FO",
             "units": "9.00",
             "instructor": "Wu",
-            "seats": "13",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9683,7 +9700,7 @@
             "campus": "FO",
             "units": "9.00",
             "instructor": "Staff",
-            "seats": "13",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9700,7 +9717,7 @@
             "campus": "FO",
             "units": "9.00",
             "instructor": "Campbell",
-            "seats": "13",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9717,7 +9734,7 @@
             "campus": "FO",
             "units": "9.00",
             "instructor": "DeMaggio",
-            "seats": "13",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9727,7 +9744,7 @@
             "course": "R T F053D02",
             "CRN": "10770",
             "desc": "APPLIED RADIOLOGIC TECH IV",
-            "status": "Open",
+            "status": "Full",
             "days": "MTWThF",
             "time": "08:00 AM-04:15 PM",
             "start": "06/29/2020",
@@ -9736,7 +9753,7 @@
             "campus": "FO",
             "units": "9.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9744,7 +9761,7 @@
             "course": "R T F053D02",
             "CRN": "10770",
             "desc": "APPLIED RADIOLOGIC TECH IV",
-            "status": "Open",
+            "status": "Full",
             "days": "MTWThF",
             "time": "08:00 AM-04:15 PM",
             "start": "06/29/2020",
@@ -9753,7 +9770,7 @@
             "campus": "FO",
             "units": "9.00",
             "instructor": "Campbell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9765,7 +9782,7 @@
             "course": "R T F055A01",
             "CRN": "10776",
             "desc": "PRINCIPLES OF RAD TECH I",
-            "status": "Open",
+            "status": "Full",
             "days": "W",
             "time": "08:00 AM-11:20 AM",
             "start": "07/08/2020",
@@ -9774,7 +9791,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Campbell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9795,7 +9812,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wu",
-            "seats": "11",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9812,7 +9829,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wu",
-            "seats": "11",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9833,7 +9850,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Lackey",
-            "seats": "11",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9850,7 +9867,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Lackey",
-            "seats": "11",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9883,7 +9900,7 @@
             "course": "R T F53AL01",
             "CRN": "10768",
             "desc": "APPLIED RAD TECH LAB I",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "07/13/2020",
@@ -9892,7 +9909,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Wu",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9900,7 +9917,7 @@
             "course": "R T F53AL01",
             "CRN": "10768",
             "desc": "APPLIED RAD TECH LAB I",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "07/13/2020",
@@ -9909,7 +9926,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Campbell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10152,7 +10169,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Hanning",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10173,7 +10190,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Hanning",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10199,7 +10216,7 @@
             "units": "5.00",
             "instructor": "Gibbs Stayte",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -10218,7 +10235,7 @@
             "units": "5.00",
             "instructor": "Fox",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -10227,7 +10244,7 @@
             "course": "SOC F001.03W",
             "CRN": "10259",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10236,8 +10253,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "9",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -10256,7 +10273,7 @@
             "units": "5.00",
             "instructor": "Fox",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -10265,7 +10282,7 @@
             "course": "SOC F001.06W",
             "CRN": "10782",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10274,8 +10291,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "32",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ]
@@ -10286,7 +10303,7 @@
             "course": "SOC F008.01W",
             "CRN": "10466",
             "desc": "POPULAR CULTURE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10295,8 +10312,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Roberts",
-            "seats": "19",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ]
@@ -10317,7 +10334,7 @@
             "units": "5.00",
             "instructor": "Gauthier",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ],
@@ -10336,7 +10353,7 @@
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -10347,7 +10364,7 @@
             "course": "SOC F019.01W",
             "CRN": "10027",
             "desc": "ALCOHOL & DRUG ABUSE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10356,8 +10373,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "14",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -10368,7 +10385,7 @@
             "course": "SOC F023.01W",
             "CRN": "10051",
             "desc": "RACE & ETHNIC RELATIONS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10378,7 +10395,7 @@
             "units": "4.00",
             "instructor": "McNamara",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -10399,7 +10416,7 @@
             "units": "4.00",
             "instructor": "McNamara",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ]
@@ -10428,29 +10445,7 @@
     }
   },
   "SOSC": {
-    "1": {
-      "79": {
-        "10373": [
-          {
-            "course": "SOSC F079.01",
-            "CRN": "10373",
-            "desc": "INTRO TO COMMNTY/CIVC ENGMNT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/07/2020",
-            "room": "ABROAD",
-            "campus": "FO",
-            "units": "1.00",
-            "instructor": "Connell",
-            "seats": "47",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "SPAN": {
     "1": {
@@ -10473,6 +10468,101 @@
             "wait_seats": "0",
             "wait_cap": "25"
           }
+        ],
+        "10848": [
+          {
+            "course": "SPAN F001.60D",
+            "CRN": "10848",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "MW",
+            "time": "01:50 PM-03:15 PM",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "TBA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10849": [
+          {
+            "course": "SPAN F001.61D",
+            "CRN": "10849",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "TTh",
+            "time": "09:00 AM-10:25 AM",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "TBA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10850": [
+          {
+            "course": "SPAN F001.62D",
+            "CRN": "10850",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "TTh",
+            "time": "10:30 AM-11:55 AM",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "TBA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10851": [
+          {
+            "course": "SPAN F001.63D",
+            "CRN": "10851",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10852": [
+          {
+            "course": "SPAN F001.64D",
+            "CRN": "10852",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "MW",
+            "time": "01:50 PM-03:15 PM",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "TBA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2": {
@@ -10481,7 +10571,7 @@
             "course": "SPAN F002.02W",
             "CRN": "10233",
             "desc": "ELEMENTARY SPANISH II",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10491,7 +10581,7 @@
             "units": "5.00",
             "instructor": "Crespo-Martin",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ]
@@ -10506,7 +10596,7 @@
             "course": "THTR F001.01W",
             "CRN": "10256",
             "desc": "INTRODUCTION TO THEATRE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10516,7 +10606,7 @@
             "units": "4.00",
             "instructor": "Gough",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -10540,7 +10630,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "St Onge-Cole",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10624,7 +10714,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Peter",
-            "seats": "27",
+            "seats": "25",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10650,7 +10740,7 @@
             "units": "4.00",
             "instructor": "Standish",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "6",
             "wait_cap": "20"
           }
         ]
