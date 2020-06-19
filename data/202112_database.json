@@ -26,7 +26,7 @@
             "course": "ACCT D001A65Z",
             "CRN": "12455",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -36,7 +36,7 @@
             "units": "5.00",
             "instructor": "Botsford",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -45,7 +45,7 @@
             "course": "ACCT D001A66Z",
             "CRN": "12837",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -55,7 +55,7 @@
             "units": "5.00",
             "instructor": "Hammond",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -64,7 +64,7 @@
             "course": "ACCT D001A67Z",
             "CRN": "12995",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -74,7 +74,7 @@
             "units": "5.00",
             "instructor": "Jeanpierre",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -93,7 +93,7 @@
             "units": "5.00",
             "instructor": "Ratchford",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -184,7 +184,7 @@
             "course": "ACCT D074.61Z",
             "CRN": "12453",
             "desc": "ACCOUNTING ETHICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -194,7 +194,7 @@
             "units": "5.00",
             "instructor": "James",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -215,7 +215,7 @@
             "units": "2.00",
             "instructor": "Hatter",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -235,7 +235,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hammond",
-            "seats": "9",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -251,7 +251,7 @@
             "course": "ADMJ D001.01",
             "CRN": "12658",
             "desc": "INTRO TO ADMIN OF JUSTICE",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -261,7 +261,7 @@
             "units": "4.00",
             "instructor": "Lawlor",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -342,7 +342,7 @@
             "instructor": "Blanchette",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "3"
+            "wait_cap": "2"
           }
         ],
         "13067": [
@@ -350,7 +350,7 @@
             "course": "ADMJ D095.66Z",
             "CRN": "13067",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -360,8 +360,8 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "3"
+            "wait_seats": "0",
+            "wait_cap": "2"
           }
         ]
       }
@@ -413,7 +413,7 @@
             "course": "ANTH D001.61Z",
             "CRN": "11522",
             "desc": "PHYS ANTHRO",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -423,7 +423,7 @@
             "units": "4.00",
             "instructor": "Hui",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -613,7 +613,7 @@
             "course": "ARTS D001A61Z",
             "CRN": "12466",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -623,7 +623,7 @@
             "units": "4.00",
             "instructor": "Mjelde",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -653,7 +653,7 @@
             "course": "ARTS D002F65Z",
             "CRN": "11742",
             "desc": "HIST OF ART/MULTICULTRL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -663,7 +663,7 @@
             "units": "4.00",
             "instructor": "Cadge-Moore",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -672,7 +672,7 @@
             "course": "ARTS D002F66Z",
             "CRN": "12047",
             "desc": "HIST OF ART/MULTICULTRL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -682,7 +682,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -704,7 +704,7 @@
             "instructor": "Lee",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "15"
+            "wait_cap": "25"
           }
         ]
       },
@@ -756,7 +756,7 @@
             "course": "ARTS D018A01",
             "CRN": "12250",
             "desc": "CERAMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "09:30 AM-10:20 AM",
             "start": "06/29/2020",
@@ -766,14 +766,14 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "ARTS D018A01",
             "CRN": "12250",
             "desc": "CERAMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "01:00 PM-02:00 PM",
             "start": "06/29/2020",
@@ -783,14 +783,14 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "ARTS D018A01",
             "CRN": "12250",
             "desc": "CERAMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -800,14 +800,14 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "ARTS D018A01",
             "CRN": "12250",
             "desc": "CERAMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -817,7 +817,7 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -853,7 +853,7 @@
             "course": "ASTR D010.61Z",
             "CRN": "13047",
             "desc": "STELLAR ASTRONOMY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -863,7 +863,7 @@
             "units": "5.00",
             "instructor": "Peterson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -878,7 +878,7 @@
             "course": "AUTO D050A01",
             "CRN": "12790",
             "desc": "INTRO AUTO PRINCIPLES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -888,7 +888,7 @@
             "units": "4.00",
             "instructor": "Wishart",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -909,7 +909,7 @@
             "units": "2.00",
             "instructor": "Wishart",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -920,7 +920,7 @@
             "course": "AUTO D060K61",
             "CRN": "12917",
             "desc": "AUTO BODY ELECTRICAL SYSTEMS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-10:15 PM",
             "start": "06/29/2020",
@@ -929,7 +929,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Maynard",
-            "seats": "3",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -950,7 +950,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Silva",
-            "seats": "14",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -972,7 +972,7 @@
             "units": "0.00",
             "instructor": "Wishart",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -993,7 +993,7 @@
             "units": "0.00",
             "instructor": "Wishart",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -1103,7 +1103,7 @@
             "course": "BIOL D010.61Z",
             "CRN": "10511",
             "desc": "INTRO BIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-11:15 AM",
             "start": "06/29/2020",
@@ -1113,14 +1113,14 @@
             "units": "5.00",
             "instructor": "Pane",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "BIOL D010.61Z",
             "CRN": "10511",
             "desc": "INTRO BIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1130,7 +1130,7 @@
             "units": "5.00",
             "instructor": "Pane",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -1139,9 +1139,45 @@
             "course": "BIOL D010.65Z",
             "CRN": "10512",
             "desc": "INTRO BIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Pane",
+            "seats": "0",
+            "wait_seats": "2",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL D010.65Z",
+            "CRN": "10512",
+            "desc": "INTRO BIOLOGY",
+            "status": "Waitlist",
+            "days": "MTWTh",
+            "time": "11:30 AM-12:45 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Pane",
+            "seats": "0",
+            "wait_seats": "2",
+            "wait_cap": "10"
+          }
+        ],
+        "13093": [
+          {
+            "course": "BIOL D010.66Z",
+            "CRN": "13093",
+            "desc": "INTRO BIOLOGY",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "08:40 AM-09:55 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1153,12 +1189,12 @@
             "wait_cap": "10"
           },
           {
-            "course": "BIOL D010.65Z",
-            "CRN": "10512",
+            "course": "BIOL D010.66Z",
+            "CRN": "13093",
             "desc": "INTRO BIOLOGY",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "11:30 AM-12:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1188,7 +1224,7 @@
             "instructor": "Sengupta",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "1"
+            "wait_cap": "7"
           },
           {
             "course": "BIOL D011.01",
@@ -1205,7 +1241,7 @@
             "instructor": "Sengupta",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "1"
+            "wait_cap": "7"
           }
         ],
         "12894": [
@@ -1215,23 +1251,6 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "BIOL D011.02",
-            "CRN": "12894",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Full",
-            "days": "MTWTh",
             "time": "12:30 PM-01:45 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
@@ -1241,7 +1260,24 @@
             "instructor": "Sengupta",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "0"
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL D011.02",
+            "CRN": "12894",
+            "desc": "HUMAN BIOLOGY",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Sengupta",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "7"
           }
         ]
       },
@@ -1251,24 +1287,7 @@
             "course": "BIOL D040A01",
             "CRN": "10828",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040A01",
-            "CRN": "10828",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "09:00 AM-10:15 AM",
             "start": "06/29/2020",
@@ -1278,16 +1297,14 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
-          }
-        ],
-        "10829": [
+          },
           {
-            "course": "BIOL D040A02",
-            "CRN": "10829",
+            "course": "BIOL D040A01",
+            "CRN": "10828",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
@@ -1297,14 +1314,33 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "7"
+          }
+        ],
+        "10829": [
+          {
+            "course": "BIOL D040A02",
+            "CRN": "10829",
+            "desc": "HUMAN ANAT & PHYSIOLOGY",
+            "status": "Waitlist",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Sengupta",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A02",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-01:45 PM",
             "start": "06/29/2020",
@@ -1314,7 +1350,7 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -1323,7 +1359,7 @@
             "course": "BIOL D040A03",
             "CRN": "13077",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "09:00 AM-10:15 AM",
             "start": "06/29/2020",
@@ -1333,14 +1369,14 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A03",
             "CRN": "13077",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
@@ -1350,7 +1386,7 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -1683,7 +1719,7 @@
             "course": "BUS D010.65Z",
             "CRN": "12615",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1693,7 +1729,7 @@
             "units": "5.00",
             "instructor": "Garbe",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -1702,7 +1738,7 @@
             "course": "BUS D010.66Z",
             "CRN": "12859",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1711,8 +1747,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Niedermier",
-            "seats": "0",
-            "wait_seats": "2",
+            "seats": "1",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -1740,7 +1776,7 @@
             "course": "BUS D010.68Z",
             "CRN": "13078",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1750,7 +1786,7 @@
             "units": "5.00",
             "instructor": "Garbe",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -1771,7 +1807,7 @@
             "units": "5.00",
             "instructor": "Barbeau",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -1788,7 +1824,7 @@
             "units": "5.00",
             "instructor": "Barbeau",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -1845,7 +1881,7 @@
             "units": "5.00",
             "instructor": "Gough",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -1856,7 +1892,7 @@
             "course": "BUS D021.61Z",
             "CRN": "12689",
             "desc": "BUSINESS & SOCIETY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1866,7 +1902,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -1877,7 +1913,7 @@
             "course": "BUS D054.61Z",
             "CRN": "12715",
             "desc": "BUSINESS MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1887,7 +1923,7 @@
             "units": "5.00",
             "instructor": "Hernandez",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -1940,7 +1976,7 @@
             "course": "BUS D085.61Z",
             "CRN": "11882",
             "desc": "BUSINESS COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1950,7 +1986,7 @@
             "units": "3.00",
             "instructor": "Takyi",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -1961,7 +1997,7 @@
             "course": "BUS D087.61Z",
             "CRN": "12850",
             "desc": "INTRO TO SELLING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1970,8 +2006,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Takyi",
-            "seats": "12",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -1982,7 +2018,7 @@
             "course": "BUS D089.61Z",
             "CRN": "11547",
             "desc": "ADVERTISING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1992,7 +2028,7 @@
             "units": "5.00",
             "instructor": "Morgan",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -2123,7 +2159,7 @@
             "course": "C D D051A01",
             "CRN": "12736",
             "desc": "BASIC STUDENT TEACHING PRACTIC",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "08:30 AM-09:20 AM",
             "start": "06/29/2020",
@@ -2133,14 +2169,14 @@
             "units": "5.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "C D D051A01",
             "CRN": "12736",
             "desc": "BASIC STUDENT TEACHING PRACTIC",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2150,14 +2186,14 @@
             "units": "5.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "C D D051A01",
             "CRN": "12736",
             "desc": "BASIC STUDENT TEACHING PRACTIC",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2167,7 +2203,7 @@
             "units": "5.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -2233,7 +2269,7 @@
             "course": "C D D052.61",
             "CRN": "12733",
             "desc": "OBSRVATN/ASSMT OF CHILDREN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "07:00 PM-08:30 PM",
             "start": "06/29/2020",
@@ -2243,14 +2279,14 @@
             "units": "4.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "C D D052.61",
             "CRN": "12733",
             "desc": "OBSRVATN/ASSMT OF CHILDREN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2260,7 +2296,7 @@
             "units": "4.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -2271,7 +2307,7 @@
             "course": "C D D053.61",
             "CRN": "11854",
             "desc": "CREATVE ARTS-YOUNG CHILD",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:00 PM-07:50 PM",
             "start": "06/29/2020",
@@ -2281,14 +2317,14 @@
             "units": "3.00",
             "instructor": "De Motta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "C D D053.61",
             "CRN": "11854",
             "desc": "CREATVE ARTS-YOUNG CHILD",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2298,7 +2334,7 @@
             "units": "3.00",
             "instructor": "De Motta",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -2759,7 +2795,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -2776,7 +2812,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -2793,7 +2829,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -2811,7 +2847,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2828,7 +2864,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2845,7 +2881,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -2931,7 +2967,7 @@
             "course": "CHEM D030A61",
             "CRN": "12278",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "02:30 PM-03:20 PM",
             "start": "06/29/2020",
@@ -2941,14 +2977,14 @@
             "units": "5.00",
             "instructor": "Martinovic",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D030A61",
             "CRN": "12278",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "05:30 PM-07:20 PM",
             "start": "06/29/2020",
@@ -2958,14 +2994,14 @@
             "units": "5.00",
             "instructor": "Martinovic",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D030A61",
             "CRN": "12278",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2975,7 +3011,7 @@
             "units": "5.00",
             "instructor": "Martinovic",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -3053,7 +3089,7 @@
             "units": "4.00",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -3074,7 +3110,7 @@
             "units": "4.50",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -3093,7 +3129,7 @@
             "units": "4.50",
             "instructor": "Whitehill",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -3112,7 +3148,7 @@
             "units": "4.50",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ]
@@ -3144,7 +3180,7 @@
             "course": "CIS D014A61Z",
             "CRN": "10773",
             "desc": "VISUAL BASIC.NET PROGR I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3153,8 +3189,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "3",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -3165,7 +3201,7 @@
             "course": "CIS D018A61Y",
             "CRN": "10680",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3174,7 +3210,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Metcalf",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -3196,7 +3232,7 @@
             "units": "4.50",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -3238,8 +3274,8 @@
             "units": "4.50",
             "instructor": "So",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "wait_seats": "-5",
+            "wait_cap": "0"
           }
         ],
         "11304": [
@@ -3361,7 +3397,7 @@
             "course": "CIS D022B01Y",
             "CRN": "11308",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:20 PM",
             "start": "06/29/2020",
@@ -3371,14 +3407,14 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022B01Y",
             "CRN": "11308",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3388,7 +3424,7 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -3397,7 +3433,7 @@
             "course": "CIS D022B02Y",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3407,14 +3443,14 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022B02Y",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -3424,7 +3460,7 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -3496,7 +3532,7 @@
             "units": "4.50",
             "instructor": "Pacheco",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ]
@@ -3566,7 +3602,7 @@
             "course": "CIS D035A02Y",
             "CRN": "12037",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "12:30 PM-02:20 PM",
             "start": "06/29/2020",
@@ -3576,14 +3612,14 @@
             "units": "4.50",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A02Y",
             "CRN": "12037",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3593,14 +3629,14 @@
             "units": "4.50",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A02Y",
             "CRN": "12037",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3610,7 +3646,7 @@
             "units": "4.50",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -3691,7 +3727,7 @@
             "course": "CIS D035A62Z",
             "CRN": "13083",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3701,14 +3737,14 @@
             "units": "4.50",
             "instructor": "Amoruwa",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A62Z",
             "CRN": "13083",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3718,7 +3754,7 @@
             "units": "4.50",
             "instructor": "Amoruwa",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -3782,7 +3818,7 @@
             "course": "CIS D036A61Z",
             "CRN": "12989",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3792,7 +3828,7 @@
             "units": "4.50",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -3936,7 +3972,7 @@
             "course": "CIS D056.61Z",
             "CRN": "12390",
             "desc": "NETWORK SECURITY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3945,8 +3981,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Fisk",
-            "seats": "3",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -3957,7 +3993,7 @@
             "course": "CIS D064B65Z",
             "CRN": "11241",
             "desc": "INTRO TO SQL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3967,7 +4003,7 @@
             "units": "4.50",
             "instructor": "Singh",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -3988,7 +4024,7 @@
             "units": "5.00",
             "instructor": "Forouzan",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -4050,7 +4086,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Janakiraman",
-            "seats": "8",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4071,7 +4107,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Holmes",
-            "seats": "15",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4093,7 +4129,7 @@
             "units": "4.50",
             "instructor": "Linn Jr",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -4104,7 +4140,7 @@
             "course": "CIS D102.61Z",
             "CRN": "11528",
             "desc": "ETHICAL HACKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4114,7 +4150,7 @@
             "units": "4.50",
             "instructor": "Amoruwa",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -4134,7 +4170,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "24",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4146,7 +4182,7 @@
             "course": "CIS D21JA61Y",
             "CRN": "12196",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4156,7 +4192,7 @@
             "units": "4.50",
             "instructor": "Eftekhari",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -4175,7 +4211,7 @@
             "units": "4.50",
             "instructor": "Eftekhari",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -4219,7 +4255,7 @@
             "units": "4.00",
             "instructor": "Wethington",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ]
@@ -4342,7 +4378,7 @@
             "course": "COMM D001.05Y",
             "CRN": "12565",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "10:00 AM-12:25 PM",
             "start": "06/29/2020",
@@ -4352,14 +4388,14 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.05Y",
             "CRN": "12565",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4369,7 +4405,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4414,7 +4450,7 @@
             "course": "COMM D001.08Y",
             "CRN": "12568",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4424,14 +4460,14 @@
             "units": "5.00",
             "instructor": "Hasan",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.08Y",
             "CRN": "12568",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "03:00 PM-05:25 PM",
             "start": "06/29/2020",
@@ -4441,7 +4477,7 @@
             "units": "5.00",
             "instructor": "Hasan",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4450,7 +4486,7 @@
             "course": "COMM D001.09Y",
             "CRN": "12569",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "03:30 PM-05:20 PM",
             "start": "06/29/2020",
@@ -4460,14 +4496,14 @@
             "units": "5.00",
             "instructor": "Orozco Coronado",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.09Y",
             "CRN": "12569",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4477,7 +4513,7 @@
             "units": "5.00",
             "instructor": "Orozco Coronado",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4486,7 +4522,7 @@
             "course": "COMM D001.10Y",
             "CRN": "13090",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4495,15 +4531,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "8",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.10Y",
             "CRN": "13090",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Full",
             "days": "TTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/29/2020",
@@ -4512,8 +4548,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "8",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4522,7 +4558,7 @@
             "course": "COMM D001.61Y",
             "CRN": "12570",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4532,14 +4568,14 @@
             "units": "5.00",
             "instructor": "Anderson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.61Y",
             "CRN": "12570",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "05:30 PM-06:20 PM",
             "start": "06/29/2020",
@@ -4549,7 +4585,7 @@
             "units": "5.00",
             "instructor": "Anderson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4594,7 +4630,7 @@
             "course": "COMM D001.63Z",
             "CRN": "12957",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4604,7 +4640,7 @@
             "units": "5.00",
             "instructor": "Kaur",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -4632,7 +4668,7 @@
             "course": "COMM D001.65Z",
             "CRN": "13091",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4641,8 +4677,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "6",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -4727,7 +4763,7 @@
             "course": "COMM D010.01Y",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "07:30 AM-09:55 AM",
             "start": "06/29/2020",
@@ -4737,14 +4773,14 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D010.01Y",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4754,7 +4790,7 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4835,7 +4871,7 @@
             "course": "COMM D010.04Y",
             "CRN": "12577",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/29/2020",
@@ -4845,14 +4881,14 @@
             "units": "5.00",
             "instructor": "Yee",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D010.04Y",
             "CRN": "12577",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4862,7 +4898,7 @@
             "units": "5.00",
             "instructor": "Yee",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -4873,7 +4909,7 @@
             "course": "COMM D015.61Y",
             "CRN": "12578",
             "desc": "CRIT DECISION-MAKING IN GROUPS",
-            "status": "Full",
+            "status": "Open",
             "days": "M",
             "time": "06:00 PM-08:50 PM",
             "start": "06/29/2020",
@@ -4882,7 +4918,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -4890,7 +4926,7 @@
             "course": "COMM D015.61Y",
             "CRN": "12578",
             "desc": "CRIT DECISION-MAKING IN GROUPS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4899,7 +4935,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -4911,7 +4947,7 @@
             "course": "COMM D016.63Z",
             "CRN": "12579",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4920,7 +4956,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gainer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -4955,7 +4991,7 @@
             "course": "COUN D005.02Y",
             "CRN": "12864",
             "desc": "INTRODUCTION TO COLLEGE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "07/06/2020",
@@ -4964,7 +5000,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Fu",
-            "seats": "14",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -4983,7 +5019,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Huynh",
-            "seats": "31",
+            "seats": "25",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -5021,7 +5057,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Guitron",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -5040,7 +5076,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Huynh",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -5164,7 +5200,7 @@
             "units": "4.00",
             "instructor": "Klingman",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -5183,7 +5219,7 @@
             "units": "4.00",
             "instructor": "Klingman",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -5356,51 +5392,13 @@
           }
         ]
       },
-      "80": {
-        "12389": [
-          {
-            "course": "DMT D080.61",
-            "CRN": "12389",
-            "desc": "INTRO TO MACHINING AND CNC",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "05:30 PM-06:45 PM",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Appio",
-            "seats": "5",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D080.61",
-            "CRN": "12389",
-            "desc": "INTRO TO MACHINING AND CNC",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "07:00 PM-09:50 PM",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Appio",
-            "seats": "5",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "102": {
         "11765": [
           {
             "course": "DMT D102.01",
             "CRN": "11765",
             "desc": "CAD TECH LAB SOLIDWRKS (BEG)",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5408,9 +5406,9 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
-            "instructor": "Stoddard",
-            "seats": "0",
-            "wait_seats": "9",
+            "instructor": "Appio",
+            "seats": "10",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -5429,8 +5427,8 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
-            "instructor": "Stoddard",
-            "seats": "4",
+            "instructor": "Appio",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5456,7 +5454,7 @@
             "units": "4.00",
             "instructor": "Roeder",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -5465,7 +5463,7 @@
             "course": "E S D001.65Z",
             "CRN": "11952",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5474,7 +5472,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "21",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5494,7 +5492,7 @@
             "units": "4.00",
             "instructor": "Roeder",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -5512,26 +5510,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "12939": [
-          {
-            "course": "E S D001.68Z",
-            "CRN": "12939",
-            "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Sanders",
-            "seats": "37",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5560,7 +5539,7 @@
             "course": "E S D001.70Z",
             "CRN": "12941",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5569,7 +5548,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Frisbee",
-            "seats": "33",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5621,7 +5600,7 @@
             "course": "E S D003.65Z",
             "CRN": "12936",
             "desc": "IMAGERY OF THE ENVIRONMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5630,7 +5609,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "15",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5642,7 +5621,7 @@
             "course": "E S D004.61Z",
             "CRN": "12682",
             "desc": "ENERGY, ENVRNMENT, AND SOCIETY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5651,8 +5630,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "18",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -5672,7 +5651,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Wheelehan",
-            "seats": "28",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5693,7 +5672,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Maniaci",
-            "seats": "25",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5808,7 +5787,7 @@
             "course": "ECON D001.02",
             "CRN": "13087",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5817,8 +5796,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "13",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -6089,7 +6068,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Glapion",
-            "seats": "42",
+            "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6110,7 +6089,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Magnin",
-            "seats": "38",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6129,7 +6108,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Sheirich",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6169,7 +6148,7 @@
             "campus": "DO",
             "units": "4.00",
             "instructor": "Sheirich",
-            "seats": "40",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6248,7 +6227,7 @@
             "course": "ENGR D037.61",
             "CRN": "10154",
             "desc": "INTRO TO CIRCUIT ANALYSIS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MWTh",
             "time": "06:00 PM-08:15 PM",
             "start": "06/29/2020",
@@ -6258,14 +6237,14 @@
             "units": "5.00",
             "instructor": "Zand",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
             "course": "ENGR D037.61",
             "CRN": "10154",
             "desc": "INTRO TO CIRCUIT ANALYSIS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6275,7 +6254,7 @@
             "units": "5.00",
             "instructor": "Zand",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -6300,7 +6279,7 @@
             "units": "4.00",
             "instructor": "Ratsirarson",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -6319,7 +6298,7 @@
             "units": "4.00",
             "instructor": "Ratsirarson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -6338,7 +6317,7 @@
             "units": "4.00",
             "instructor": "Greene",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -6357,7 +6336,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -6366,7 +6345,7 @@
             "course": "ESCI D001.66Z",
             "CRN": "12544",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6375,7 +6354,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Greene",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -6395,7 +6374,7 @@
             "units": "4.00",
             "instructor": "Greene",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -6423,7 +6402,7 @@
             "course": "ESCI D001.69Z",
             "CRN": "12687",
             "desc": "ENVIRON SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6432,8 +6411,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "21",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -6442,7 +6421,7 @@
             "course": "ESCI D001.70Z",
             "CRN": "12937",
             "desc": "ENVIRON SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6451,8 +6430,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "7",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -6461,7 +6440,7 @@
             "course": "ESCI D001.71Z",
             "CRN": "12938",
             "desc": "ENVIRON SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6470,8 +6449,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "33",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -6482,7 +6461,7 @@
             "course": "ESCI D001L01",
             "CRN": "11708",
             "desc": "ENVIRON SCIENCE LAB",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6491,8 +6470,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Phillips",
-            "seats": "0",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ],
@@ -6501,7 +6480,7 @@
             "course": "ESCI D001L03",
             "CRN": "12688",
             "desc": "ENVIRON SCIENCE LAB",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "11:30 AM-01:20 PM",
             "start": "06/29/2020",
@@ -6511,14 +6490,14 @@
             "units": "1.00",
             "instructor": "McCluskey",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "7"
           },
           {
             "course": "ESCI D001L03",
             "CRN": "12688",
             "desc": "ENVIRON SCIENCE LAB",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6528,7 +6507,7 @@
             "units": "1.00",
             "instructor": "McCluskey",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ],
@@ -6537,7 +6516,7 @@
             "course": "ESCI D001L04",
             "CRN": "13076",
             "desc": "ENVIRON SCIENCE LAB",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6547,7 +6526,7 @@
             "units": "1.00",
             "instructor": "Phillips",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -6625,7 +6604,7 @@
             "course": "ESL D005.01",
             "CRN": "00421",
             "desc": "ESL:ADV COMP/READNG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6635,7 +6614,7 @@
             "units": "5.00",
             "instructor": "Tracey",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -6644,7 +6623,7 @@
             "course": "ESL D005.61",
             "CRN": "00420",
             "desc": "ESL:ADV COMP/READNG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "06:00 PM-08:15 PM",
             "start": "06/29/2020",
@@ -6654,28 +6633,7 @@
             "units": "5.00",
             "instructor": "Carrell",
             "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "234": {
-        "00426": [
-          {
-            "course": "ESL D234.01",
-            "CRN": "00426",
-            "desc": "LOW INTERM ESL",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-01:30 PM",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "10.00",
-            "instructor": "Ormeno",
-            "seats": "21",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -6686,7 +6644,7 @@
             "course": "ESL D244.01",
             "CRN": "00427",
             "desc": "INTER ESL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:30 PM-04:00 PM",
             "start": "06/29/2020",
@@ -6695,7 +6653,7 @@
             "campus": "DA",
             "units": "10.00",
             "instructor": "Hamilton",
-            "seats": "4",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -6703,7 +6661,7 @@
             "course": "ESL D244.01",
             "CRN": "00427",
             "desc": "INTER ESL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6712,7 +6670,7 @@
             "campus": "DA",
             "units": "10.00",
             "instructor": "Hamilton",
-            "seats": "4",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -6734,7 +6692,7 @@
             "units": "3.00",
             "instructor": "Yee",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -6745,7 +6703,7 @@
             "course": "ESL D252.02",
             "CRN": "12590",
             "desc": "HIGH INTERMED. READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TWTh",
             "time": "12:30 PM-02:20 PM",
             "start": "06/29/2020",
@@ -6755,7 +6713,7 @@
             "units": "3.00",
             "instructor": "Norman",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -6776,7 +6734,7 @@
             "units": "4.00",
             "instructor": "Norman",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -6911,7 +6869,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -7025,7 +6983,7 @@
             "course": "EWRT D001A01Q",
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "08:30 AM-10:45 AM",
             "start": "06/29/2020",
@@ -7035,7 +6993,7 @@
             "units": "5.00",
             "instructor": "Bonilla",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -7044,24 +7002,7 @@
             "course": "EWRT D001A03Q",
             "CRN": "12796",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Wilson",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "6"
-          },
-          {
-            "course": "EWRT D001A03Q",
-            "CRN": "12796",
-            "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:30 AM-11:20 AM",
             "start": "06/29/2020",
@@ -7071,7 +7012,24 @@
             "units": "5.00",
             "instructor": "Wilson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          },
+          {
+            "course": "EWRT D001A03Q",
+            "CRN": "12796",
+            "desc": "COMPOSITION AND READING",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Wilson",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -7090,7 +7048,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -7109,7 +7067,7 @@
             "units": "5.00",
             "instructor": "Argyriou",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -7128,7 +7086,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -7147,7 +7105,7 @@
             "units": "5.00",
             "instructor": "Argyriou",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -7175,7 +7133,7 @@
             "course": "EWRT D001A26",
             "CRN": "00466",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7185,7 +7143,7 @@
             "units": "5.00",
             "instructor": "Quinn",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -7193,25 +7151,6 @@
           {
             "course": "EWRT D001A27",
             "CRN": "13018",
-            "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Diehl",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
-          }
-        ],
-        "13019": [
-          {
-            "course": "EWRT D001A28",
-            "CRN": "13019",
             "desc": "COMPOSITION AND READING",
             "status": "Full",
             "days": "TBA",
@@ -7227,10 +7166,10 @@
             "wait_cap": "10"
           }
         ],
-        "00467": [
+        "13019": [
           {
-            "course": "EWRT D001A61Z",
-            "CRN": "00467",
+            "course": "EWRT D001A28",
+            "CRN": "13019",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
             "days": "TBA",
@@ -7240,9 +7179,47 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
+            "instructor": "Diehl",
+            "seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "10"
+          }
+        ],
+        "13105": [
+          {
+            "course": "EWRT D001A29",
+            "CRN": "13105",
+            "desc": "COMPOSITION AND READING",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Swensson",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "6"
+          }
+        ],
+        "00467": [
+          {
+            "course": "EWRT D001A61Z",
+            "CRN": "00467",
+            "desc": "COMPOSITION AND READING",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
             "instructor": "Palmore",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -7251,7 +7228,7 @@
             "course": "EWRT D001A62Q",
             "CRN": "13016",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7261,7 +7238,7 @@
             "units": "5.00",
             "instructor": "Vasquez",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -7270,7 +7247,7 @@
             "course": "EWRT D001A65Z",
             "CRN": "11680",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7280,7 +7257,7 @@
             "units": "5.00",
             "instructor": "Palmore",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -7299,7 +7276,7 @@
             "units": "5.00",
             "instructor": "Giardino",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -7318,7 +7295,7 @@
             "units": "5.00",
             "instructor": "Giardino",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -7356,7 +7333,7 @@
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -7375,7 +7352,7 @@
             "units": "5.00",
             "instructor": "Wann",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -7394,7 +7371,7 @@
             "units": "5.00",
             "instructor": "Wann",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -7453,7 +7430,7 @@
             "units": "5.00",
             "instructor": "Delaney",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -7461,25 +7438,6 @@
           {
             "course": "EWRT D001B65Z",
             "CRN": "11095",
-            "desc": "READNG, WRTNG & RESRCH",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Delaney",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "11194": [
-          {
-            "course": "EWRT D001B66Z",
-            "CRN": "11194",
             "desc": "READNG, WRTNG & RESRCH",
             "status": "Waitlist",
             "days": "TBA",
@@ -7489,9 +7447,28 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Limcolioc",
+            "instructor": "Delaney",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
+            "wait_cap": "10"
+          }
+        ],
+        "11194": [
+          {
+            "course": "EWRT D001B66Z",
+            "CRN": "11194",
+            "desc": "READNG, WRTNG & RESRCH",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Limcolioc",
+            "seats": "1",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -7540,7 +7517,7 @@
             "course": "EWRT D002.03",
             "CRN": "11096",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7550,7 +7527,7 @@
             "units": "5.00",
             "instructor": "Gravener",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -7559,7 +7536,7 @@
             "course": "EWRT D002.04",
             "CRN": "01140",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7569,7 +7546,7 @@
             "units": "5.00",
             "instructor": "Gravener",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -7588,7 +7565,26 @@
             "units": "5.00",
             "instructor": "Bejarin",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          }
+        ],
+        "13106": [
+          {
+            "course": "EWRT D002.07",
+            "CRN": "13106",
+            "desc": "CRIT READ, WRIT & THINK",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bejarin",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -7617,23 +7613,6 @@
             "CRN": "13020",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Morfee",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          },
-          {
-            "course": "EWRT D002.62",
-            "CRN": "13020",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
             "days": "T",
             "time": "05:30 PM-06:20 PM",
             "start": "06/29/2020",
@@ -7643,7 +7622,24 @@
             "units": "5.00",
             "instructor": "Morfee",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "EWRT D002.62",
+            "CRN": "13020",
+            "desc": "CRIT READ, WRIT & THINK",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Morfee",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -7719,7 +7715,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -7738,7 +7734,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -7757,7 +7753,7 @@
             "units": "5.00",
             "instructor": "Dickson",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -7785,7 +7781,7 @@
             "course": "EWRT D002.73Z",
             "CRN": "12833",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7795,7 +7791,7 @@
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -7814,7 +7810,7 @@
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -8027,7 +8023,7 @@
             "course": "GEO D001.01",
             "CRN": "11495",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8037,7 +8033,7 @@
             "units": "4.00",
             "instructor": "Dutt",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "3"
           }
         ],
@@ -8046,7 +8042,7 @@
             "course": "GEO D001.65Z",
             "CRN": "12283",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8056,7 +8052,7 @@
             "units": "4.00",
             "instructor": "Rohrmeier",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -8140,7 +8136,7 @@
             "units": "4.00",
             "instructor": "Dileonardo",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -8159,7 +8155,7 @@
             "units": "4.00",
             "instructor": "Dileonardo",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -8275,7 +8271,7 @@
             "course": "HIST D017B01",
             "CRN": "12723",
             "desc": "HISTORY U.S. 1800-1900",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8285,7 +8281,7 @@
             "units": "4.00",
             "instructor": "Knittel",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -8342,7 +8338,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
-            "instructor": "Gerould",
+            "instructor": "Nguyen",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "5"
@@ -8397,7 +8393,7 @@
             "course": "HLTH D021.65Z",
             "CRN": "12551",
             "desc": "CONTEMP HLTH CONCERNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8406,7 +8402,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Liechty",
-            "seats": "22",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8425,7 +8421,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Liechty",
-            "seats": "35",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8444,26 +8440,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "20",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "13008": [
-          {
-            "course": "HLTH D021.68Z",
-            "CRN": "13008",
-            "desc": "CONTEMP HLTH CONCERNS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Campbell",
-            "seats": "39",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8530,7 +8507,7 @@
             "campus": "DO",
             "units": "2.00",
             "instructor": "Miramontes",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8551,7 +8528,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8572,7 +8549,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "28",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8593,7 +8570,7 @@
             "campus": "DO",
             "units": "4.00",
             "instructor": "Miramontes",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8635,7 +8612,7 @@
             "campus": "DO",
             "units": "4.00",
             "instructor": "Miramontes",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8761,7 +8738,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Duong",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8778,7 +8755,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Buchner",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8799,7 +8776,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Duong",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8816,7 +8793,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Buchner",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8837,7 +8814,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Duong",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8854,7 +8831,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Buchner",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8875,7 +8852,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Duong",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8892,7 +8869,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Buchner",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8958,7 +8935,7 @@
             "units": "4.00",
             "instructor": "Hughes",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -9108,7 +9085,7 @@
             "course": "HUMI D007.61Z",
             "CRN": "10226",
             "desc": "THE ARTS AND THE HUMAN SPIRIT",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9118,7 +9095,7 @@
             "units": "4.00",
             "instructor": "Clinchard",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -9129,7 +9106,7 @@
             "course": "HUMI D009.61Z",
             "CRN": "01104",
             "desc": "INTRO TO COMPARATIVE RELIGION",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9138,7 +9115,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clinchard",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -9196,7 +9173,7 @@
             "course": "ICS D004.61Z",
             "CRN": "10150",
             "desc": "RACE, ETHNICITY & INEQUALITY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9206,7 +9183,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -9236,7 +9213,7 @@
             "course": "ICS D005.65Z",
             "CRN": "11741",
             "desc": "HIST OF ART/MULTICULTRL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9246,7 +9223,7 @@
             "units": "4.00",
             "instructor": "Cadge-Moore",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -9265,7 +9242,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -9307,7 +9284,7 @@
             "units": "4.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -9328,7 +9305,7 @@
             "units": "4.00",
             "instructor": "Kensler",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -9339,7 +9316,7 @@
             "course": "ICS D030.61Z",
             "CRN": "12822",
             "desc": "INTRO CHICANO/A-LATINO/A STDS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9348,8 +9325,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Loyola",
-            "seats": "0",
-            "wait_seats": "7",
+            "seats": "1",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -9370,7 +9347,7 @@
             "units": "4.00",
             "instructor": "Ponce",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -9381,7 +9358,7 @@
             "course": "ICS D033.01",
             "CRN": "12555",
             "desc": "CHICANO/A- LATINO/A ARTS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9391,7 +9368,7 @@
             "units": "4.00",
             "instructor": "Loyola",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -9412,7 +9389,7 @@
             "units": "4.00",
             "instructor": "Kensler",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -9427,7 +9404,7 @@
             "course": "INTL D010.61Z",
             "CRN": "00605",
             "desc": "HISTORY OF ART (ARTS OF ASIA)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9437,7 +9414,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -9458,7 +9435,7 @@
             "units": "4.00",
             "instructor": "Caparas",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -9573,7 +9550,7 @@
             "units": "0.50",
             "instructor": "Ghiasvand",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -9594,7 +9571,7 @@
             "units": "0.50",
             "instructor": "Catuiza",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -9615,7 +9592,7 @@
             "units": "0.50",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -9636,7 +9613,7 @@
             "units": "0.50",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -9645,7 +9622,7 @@
             "course": "KNES D015E02",
             "CRN": "12086",
             "desc": "CARDIO AND STRENGTH TRANING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9654,7 +9631,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Damjanovic",
-            "seats": "8",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9673,7 +9650,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "10",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9692,7 +9669,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "14",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9712,7 +9689,7 @@
             "units": "1.00",
             "instructor": "Guevara",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -9742,7 +9719,7 @@
             "course": "KNES D019A02",
             "CRN": "12955",
             "desc": "STRENGTH DEVELOPMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9751,7 +9728,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "3",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9761,7 +9738,7 @@
             "course": "KNES D019A03",
             "CRN": "12886",
             "desc": "STRENGTH DEVELOPMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9770,7 +9747,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Damjanovic",
-            "seats": "6",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9780,7 +9757,7 @@
             "course": "KNES D019A61",
             "CRN": "12982",
             "desc": "STRENGTH DEVELOPMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9789,7 +9766,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "4",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9799,7 +9776,7 @@
             "course": "KNES D19AX01",
             "CRN": "12857",
             "desc": "STRENGTH DEVELOPMENT",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "07/06/2020",
@@ -9809,7 +9786,7 @@
             "units": "1.00",
             "instructor": "Guevara",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -9829,7 +9806,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "6",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9849,7 +9826,7 @@
             "units": "1.00",
             "instructor": "Guevara",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -9927,7 +9904,7 @@
             "units": "0.50",
             "instructor": "Catuiza",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -9948,7 +9925,7 @@
             "units": "0.50",
             "instructor": "Simons",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -9967,7 +9944,7 @@
             "units": "0.50",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -10005,7 +9982,7 @@
             "units": "0.50",
             "instructor": "Ghiasvand",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -10026,7 +10003,7 @@
             "units": "0.50",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -10035,7 +10012,7 @@
             "course": "KNES D022B61",
             "CRN": "12978",
             "desc": "YOGA FOR RELAXATION",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10045,7 +10022,7 @@
             "units": "0.50",
             "instructor": "Ghiasvand",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -10064,7 +10041,7 @@
             "units": "0.50",
             "instructor": "May",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -10085,7 +10062,7 @@
             "units": "0.50",
             "instructor": "Simons",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -10125,7 +10102,7 @@
             "units": "0.50",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -10165,7 +10142,7 @@
             "units": "0.50",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -10205,7 +10182,7 @@
             "units": "0.50",
             "instructor": "Catuiza",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -10225,7 +10202,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Roesky",
-            "seats": "5",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10246,7 +10223,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Roesky",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10279,7 +10256,7 @@
             "course": "KNES D032A01",
             "CRN": "12152",
             "desc": "BEGINNING TENNIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10288,7 +10265,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Roesky",
-            "seats": "13",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10307,7 +10284,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Simons",
-            "seats": "7",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10319,7 +10296,7 @@
             "course": "KNES D032B01",
             "CRN": "12153",
             "desc": "ADVANCED BEGINNING TENNIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10328,7 +10305,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Roesky",
-            "seats": "15",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10347,7 +10324,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Simons",
-            "seats": "8",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10359,7 +10336,7 @@
             "course": "KNES D032C03",
             "CRN": "12381",
             "desc": "INTERMEDIATE TENNIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10368,7 +10345,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Roesky",
-            "seats": "9",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10387,7 +10364,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Simons",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10409,7 +10386,7 @@
             "units": "5.00",
             "instructor": "Owiesny",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -10428,7 +10405,7 @@
             "units": "5.00",
             "instructor": "Kragalott",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -10448,7 +10425,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "21",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10469,7 +10446,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Altman",
-            "seats": "10",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10488,7 +10465,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Altman",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10509,7 +10486,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "19",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10521,7 +10498,7 @@
             "course": "KNES D09AX61Z",
             "CRN": "12998",
             "desc": "INTERACT CARDIOVAS FITNESS 1",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "07/20/2020",
@@ -10530,7 +10507,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Owiesny",
-            "seats": "10",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10546,7 +10523,7 @@
             "course": "LART D250.01Q",
             "CRN": "12793",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "11:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -10556,7 +10533,7 @@
             "units": "3.00",
             "instructor": "Bonilla",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -10565,7 +10542,7 @@
             "course": "LART D250.03Q",
             "CRN": "12797",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10575,7 +10552,7 @@
             "units": "3.00",
             "instructor": "Wilson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -10584,7 +10561,7 @@
             "course": "LART D250.62Q",
             "CRN": "13017",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10594,7 +10571,7 @@
             "units": "3.00",
             "instructor": "Vasquez",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -10736,6 +10713,25 @@
             "wait_seats": "0",
             "wait_cap": "6"
           }
+        ],
+        "13097": [
+          {
+            "course": "MATH D001A65Z",
+            "CRN": "13097",
+            "desc": "CALCULUS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Dhaliwal",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          }
         ]
       },
       "1B": {
@@ -10773,7 +10769,7 @@
             "units": "5.00",
             "instructor": "Shah",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -10802,8 +10798,8 @@
             "CRN": "13026",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "MW",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -10819,8 +10815,8 @@
             "CRN": "13026",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -10837,7 +10833,7 @@
             "course": "MATH D001B61",
             "CRN": "10208",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "06:00 PM-08:15 PM",
             "start": "06/29/2020",
@@ -10846,8 +10842,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Van Der Poel",
-            "seats": "0",
-            "wait_seats": "0",
+            "seats": "1",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -10856,7 +10852,7 @@
             "course": "MATH D001B61Z",
             "CRN": "13025",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10866,7 +10862,26 @@
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "6"
+          }
+        ],
+        "13098": [
+          {
+            "course": "MATH D001B62Z",
+            "CRN": "13098",
+            "desc": "CALCULUS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Dhaliwal",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -10877,7 +10892,7 @@
             "course": "MATH D001C01",
             "CRN": "12990",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10887,14 +10902,14 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "MATH D001C01",
             "CRN": "12990",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/29/2020",
@@ -10904,7 +10919,7 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -10913,7 +10928,7 @@
             "course": "MATH D001C03",
             "CRN": "12056",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -10922,8 +10937,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Njinimbam",
-            "seats": "0",
-            "wait_seats": "0",
+            "seats": "2",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -10932,7 +10947,7 @@
             "course": "MATH D001C05",
             "CRN": "10148",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -10942,7 +10957,7 @@
             "units": "5.00",
             "instructor": "Njinimbam",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -10951,7 +10966,7 @@
             "course": "MATH D001C06",
             "CRN": "10885",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -10961,7 +10976,7 @@
             "units": "5.00",
             "instructor": "Vanniasegaram",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -10970,7 +10985,7 @@
             "course": "MATH D001C07",
             "CRN": "13027",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -10980,7 +10995,7 @@
             "units": "5.00",
             "instructor": "Guerrero",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -11019,13 +11034,11 @@
             "wait_seats": "0",
             "wait_cap": "6"
           }
-        ]
-      },
-      "1D": {
-        "00665": [
+        ],
+        "13100": [
           {
-            "course": "MATH D001D03",
-            "CRN": "00665",
+            "course": "MATH D001C61Z",
+            "CRN": "13100",
             "desc": "CALCULUS",
             "status": "Full",
             "days": "TBA",
@@ -11035,9 +11048,30 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Sadeghi-Hassanvand",
+            "instructor": "Yu",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ]
+      },
+      "1D": {
+        "00665": [
+          {
+            "course": "MATH D001D03",
+            "CRN": "00665",
+            "desc": "CALCULUS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Sadeghi-Hassanvand",
+            "seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -11046,7 +11080,7 @@
             "course": "MATH D001D05",
             "CRN": "13040",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -11056,7 +11090,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -11065,7 +11099,7 @@
             "course": "MATH D001D61",
             "CRN": "00666",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "06:00 PM-08:15 PM",
             "start": "06/29/2020",
@@ -11074,8 +11108,27 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Du",
+            "seats": "2",
+            "wait_seats": "5",
+            "wait_cap": "6"
+          }
+        ],
+        "13101": [
+          {
+            "course": "MATH D001D62Z",
+            "CRN": "13101",
+            "desc": "CALCULUS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -11105,7 +11158,7 @@
             "course": "MATH D002A05",
             "CRN": "13028",
             "desc": "DIFFERENTIAL EQUATIONS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11115,7 +11168,7 @@
             "units": "5.00",
             "instructor": "Bourgoub",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -11145,7 +11198,7 @@
             "course": "MATH D002B05",
             "CRN": "13029",
             "desc": "LINEAR ALGEBRA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11155,7 +11208,7 @@
             "units": "5.00",
             "instructor": "Bourgoub",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -11204,7 +11257,7 @@
             "course": "MATH D010.04",
             "CRN": "10979",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -11213,7 +11266,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11242,7 +11295,7 @@
             "course": "MATH D010.06",
             "CRN": "10549",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11252,7 +11305,7 @@
             "units": "5.00",
             "instructor": "Sales",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11299,7 +11352,7 @@
             "course": "MATH D010.09",
             "CRN": "12523",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11309,7 +11362,7 @@
             "units": "5.00",
             "instructor": "Du",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11337,7 +11390,7 @@
             "course": "MATH D010.11",
             "CRN": "13031",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11347,7 +11400,7 @@
             "units": "5.00",
             "instructor": "Phelps",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -11356,7 +11409,7 @@
             "course": "MATH D010.12",
             "CRN": "13032",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11366,7 +11419,7 @@
             "units": "5.00",
             "instructor": "Phelps",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -11406,6 +11459,44 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
+          }
+        ],
+        "13095": [
+          {
+            "course": "MATH D010.62Z",
+            "CRN": "13095",
+            "desc": "INTRODUCTORY STATISTICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Moen",
+            "seats": "2",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ],
+        "13096": [
+          {
+            "course": "MATH D010.63Z",
+            "CRN": "13096",
+            "desc": "INTRODUCTORY STATISTICS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Ganeshalingam",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "6"
           }
         ],
         "12840": [
@@ -11484,7 +11575,7 @@
             "units": "5.00",
             "instructor": "Shah",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ]
@@ -11495,7 +11586,7 @@
             "course": "MATH D022.01",
             "CRN": "13035",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/29/2020",
@@ -11505,7 +11596,7 @@
             "units": "5.00",
             "instructor": "Guerrero",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -11514,7 +11605,7 @@
             "course": "MATH D022.03",
             "CRN": "00686",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -11524,7 +11615,7 @@
             "units": "5.00",
             "instructor": "Shi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -11544,6 +11635,42 @@
             "instructor": "Mazmanyan",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ],
+        "13099": [
+          {
+            "course": "MATH D022.07",
+            "CRN": "13099",
+            "desc": "DISCRETE MATHEMATICS",
+            "status": "Waitlist",
+            "days": "MW",
+            "time": "03:00 PM-05:15 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Shariatmadari",
+            "seats": "0",
+            "wait_seats": "3",
+            "wait_cap": "6"
+          },
+          {
+            "course": "MATH D022.07",
+            "CRN": "13099",
+            "desc": "DISCRETE MATHEMATICS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Shariatmadari",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -11590,7 +11717,7 @@
             "course": "MATH D031.03",
             "CRN": "13048",
             "desc": "PRECALCULUS I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -11600,7 +11727,7 @@
             "units": "5.00",
             "instructor": "Rudolf",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11609,7 +11736,7 @@
             "course": "MATH D031.05",
             "CRN": "13049",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Full",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11618,8 +11745,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
-            "seats": "2",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11628,7 +11755,7 @@
             "course": "MATH D031.07",
             "CRN": "13050",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11636,32 +11763,15 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Yu",
-            "seats": "2",
-            "wait_seats": "6",
+            "instructor": "Legge",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
       },
       "42": {
         "10598": [
-          {
-            "course": "MATH D042.01",
-            "CRN": "10598",
-            "desc": "PRECALC II: TRIG FUNCTIONS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Bambhania",
-            "seats": "25",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
           {
             "course": "MATH D042.01",
             "CRN": "10598",
@@ -11675,32 +11785,13 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "25",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "12991": [
-          {
-            "course": "MATH D042.03",
-            "CRN": "12991",
-            "desc": "PRECALC II: TRIG FUNCTIONS",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Bambhania",
-            "seats": "3",
+            "seats": "14",
             "wait_seats": "6",
             "wait_cap": "6"
           },
           {
-            "course": "MATH D042.03",
-            "CRN": "12991",
+            "course": "MATH D042.01",
+            "CRN": "10598",
             "desc": "PRECALC II: TRIG FUNCTIONS",
             "status": "Open",
             "days": "TBA",
@@ -11711,8 +11802,44 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "3",
+            "seats": "14",
             "wait_seats": "6",
+            "wait_cap": "6"
+          }
+        ],
+        "12991": [
+          {
+            "course": "MATH D042.03",
+            "CRN": "12991",
+            "desc": "PRECALC II: TRIG FUNCTIONS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bambhania",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "6"
+          },
+          {
+            "course": "MATH D042.03",
+            "CRN": "12991",
+            "desc": "PRECALC II: TRIG FUNCTIONS",
+            "status": "Waitlist",
+            "days": "TTh",
+            "time": "10:00 AM-12:15 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bambhania",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -11740,7 +11867,7 @@
             "course": "MATH D042.06",
             "CRN": "11185",
             "desc": "PRECALC II: TRIG FUNCTIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11749,46 +11876,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "8",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13036": [
-          {
-            "course": "MATH D042.07",
-            "CRN": "13036",
-            "desc": "PRECALC II: TRIG FUNCTIONS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Legge",
-            "seats": "36",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13042": [
-          {
-            "course": "MATH D042.11",
-            "CRN": "13042",
-            "desc": "PRECALC II: TRIG FUNCTIONS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:00 PM-08:15 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Desilets",
-            "seats": "31",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -11799,7 +11888,7 @@
             "course": "MATH D043.01",
             "CRN": "10884",
             "desc": "PRECALC III: ADVANCED TOPICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "09:00 AM-09:50 AM",
             "start": "06/29/2020",
@@ -11809,14 +11898,14 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "MATH D043.01",
             "CRN": "10884",
             "desc": "PRECALC III: ADVANCED TOPICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -11826,7 +11915,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11845,7 +11934,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
@@ -11862,7 +11951,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11899,26 +11988,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "23",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "12777": [
-          {
-            "course": "MATH D043.05",
-            "CRN": "12777",
-            "desc": "PRECALC III: ADVANCED TOPICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:00 PM-08:15 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Krestas",
-            "seats": "29",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11978,7 +12048,7 @@
             "units": "5.00",
             "instructor": "Shukla",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11987,7 +12057,7 @@
             "course": "MATH D114.10",
             "CRN": "13041",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11996,7 +12066,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Van Der Poel",
-            "seats": "15",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12031,7 +12101,7 @@
             "course": "MET D010.61Z",
             "CRN": "10956",
             "desc": "WEATHER AND CLIMATE PROCESSES",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -12041,7 +12111,7 @@
             "units": "5.00",
             "instructor": "Mullens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -12060,7 +12130,7 @@
             "units": "5.00",
             "instructor": "James",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ],
@@ -12079,7 +12149,7 @@
             "units": "5.00",
             "instructor": "James",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -12115,7 +12185,7 @@
             "course": "MUSI D001A01",
             "CRN": "12680",
             "desc": "MUSIC APPREC: WESTRN CULTURE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TWTh",
             "time": "09:30 AM-11:55 AM",
             "start": "06/29/2020",
@@ -12125,7 +12195,7 @@
             "units": "4.00",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -12155,7 +12225,7 @@
             "course": "MUSI D012A01",
             "CRN": "12256",
             "desc": "CLASS PIANO I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "12:30 PM-01:20 PM",
             "start": "06/29/2020",
@@ -12165,14 +12235,14 @@
             "units": "1.50",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "MUSI D012A01",
             "CRN": "12256",
             "desc": "CLASS PIANO I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "06/29/2020",
@@ -12182,7 +12252,7 @@
             "units": "1.50",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -12269,7 +12339,7 @@
             "course": "MUSI D016A01",
             "CRN": "12443",
             "desc": "BEGINNING ACOUSTIC GUITAR",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:30 PM-01:20 PM",
             "start": "06/29/2020",
@@ -12279,14 +12349,14 @@
             "units": "1.50",
             "instructor": "Dunn",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
             "course": "MUSI D016A01",
             "CRN": "12443",
             "desc": "BEGINNING ACOUSTIC GUITAR",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:20 PM",
             "start": "06/29/2020",
@@ -12296,7 +12366,7 @@
             "units": "1.50",
             "instructor": "Dunn",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -12311,7 +12381,7 @@
             "course": "NURS D050.01",
             "CRN": "10057",
             "desc": "CAREER OPPRTN/NURSING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "07:30 AM-09:20 AM",
             "start": "06/29/2020",
@@ -12320,8 +12390,8 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hrycyk",
-            "seats": "0",
-            "wait_seats": "4",
+            "seats": "1",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -12400,7 +12470,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "10",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12421,7 +12491,7 @@
             "campus": "DO",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "5",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12440,7 +12510,7 @@
             "campus": "DO",
             "units": "5.00",
             "instructor": "Castro",
-            "seats": "5",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12456,7 +12526,7 @@
             "course": "NUTR D010.01",
             "CRN": "12673",
             "desc": "CONTEMP NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTW",
             "time": "10:00 AM-12:25 PM",
             "start": "06/29/2020",
@@ -12465,7 +12535,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hall",
-            "seats": "19",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -12475,7 +12545,7 @@
             "course": "NUTR D010.61Z",
             "CRN": "12232",
             "desc": "CONTEMP NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -12484,7 +12554,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Miller",
-            "seats": "10",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12504,7 +12574,7 @@
             "units": "4.00",
             "instructor": "Liechty",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -12513,7 +12583,7 @@
             "course": "NUTR D010.66Z",
             "CRN": "11175",
             "desc": "CONTEMP NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -12522,8 +12592,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "16",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -12542,7 +12612,7 @@
             "units": "4.00",
             "instructor": "Acker",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -12559,7 +12629,7 @@
             "units": "4.00",
             "instructor": "Acker",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -12578,7 +12648,7 @@
             "units": "4.00",
             "instructor": "Acker",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -12595,7 +12665,7 @@
             "units": "4.00",
             "instructor": "Acker",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -12615,7 +12685,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Miller",
-            "seats": "17",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12640,7 +12710,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Altman",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12661,7 +12731,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Damjanovic",
-            "seats": "5",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12713,7 +12783,7 @@
             "course": "P E D032P01",
             "CRN": "12871",
             "desc": "TECHNIQUES OF SWIMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "07/06/2020",
@@ -12723,7 +12793,7 @@
             "units": "2.00",
             "instructor": "Altman",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -12762,7 +12832,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Santos",
-            "seats": "38",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12781,7 +12851,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Santos",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12842,7 +12912,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Mattis",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12861,7 +12931,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Mattis",
-            "seats": "29",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12901,7 +12971,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Watkins",
-            "seats": "24",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12925,25 +12995,6 @@
             "wait_cap": "10"
           }
         ],
-        "12997": [
-          {
-            "course": "P E D04XX04",
-            "CRN": "12997",
-            "desc": "HI INTENS STRNGTH DEV/AT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/06/2020",
-            "end": "09/20/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Singh",
-            "seats": "9",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "12815": [
           {
             "course": "P E D04XX05",
@@ -12958,7 +13009,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Santos",
-            "seats": "30",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12984,25 +13035,6 @@
         ]
       },
       "99": {
-        "12897": [
-          {
-            "course": "P E D099.01",
-            "CRN": "12897",
-            "desc": "ORIENTATION TO ATHLETICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "08/17/2020",
-            "end": "08/21/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Landefeld",
-            "seats": "33",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "12898": [
           {
             "course": "P E D099.02",
@@ -13017,7 +13049,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Landefeld",
-            "seats": "39",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13041,21 +13073,40 @@
             "wait_cap": "10"
           }
         ],
-        "12901": [
+        "13103": [
           {
-            "course": "P E D099.04",
-            "CRN": "12901",
+            "course": "P E D099.05",
+            "CRN": "13103",
             "desc": "ORIENTATION TO ATHLETICS",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "08/24/2020",
-            "end": "08/27/2020",
+            "start": "08/31/2020",
+            "end": "09/03/2020",
             "room": "ONLINE",
             "campus": "DA",
             "units": "1.00",
             "instructor": "Landefeld",
-            "seats": "59",
+            "seats": "40",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "13104": [
+          {
+            "course": "P E D099.06",
+            "CRN": "13104",
+            "desc": "ORIENTATION TO ATHLETICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/08/2020",
+            "end": "09/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Landefeld",
+            "seats": "60",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13077,7 +13128,7 @@
             "units": "1.00",
             "instructor": "Guevara",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -13125,21 +13176,21 @@
         ]
       },
       "38W": {
-        "12914": [
+        "13102": [
           {
-            "course": "P E D38WX61",
-            "CRN": "12914",
+            "course": "P E D38WX62",
+            "CRN": "13102",
             "desc": "INTRCLGT WMN'S BADMNTN",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
+            "start": "08/10/2020",
+            "end": "09/20/2020",
             "room": "ONLINE",
             "campus": "DA",
             "units": "1.50",
             "instructor": "Landefeld",
-            "seats": "21",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13160,7 +13211,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Johnson",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13231,7 +13282,7 @@
             "course": "P E D42WX01",
             "CRN": "12116",
             "desc": "INTRCOLLEG VOLLEY (WOMEN)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "08/10/2020",
@@ -13240,7 +13291,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Guevara",
-            "seats": "25",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13259,7 +13310,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Guevara",
-            "seats": "25",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13313,7 +13364,7 @@
             "course": "PARA D095.61Z",
             "CRN": "13009",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13323,8 +13374,8 @@
             "units": "4.00",
             "instructor": "Blanchette",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "4",
+            "wait_cap": "6"
           }
         ],
         "13066": [
@@ -13332,7 +13383,7 @@
             "course": "PARA D095.66Z",
             "CRN": "13066",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13341,9 +13392,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "10"
+            "seats": "3",
+            "wait_seats": "4",
+            "wait_cap": "6"
           }
         ]
       }
@@ -13423,7 +13474,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Perkins",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13433,7 +13484,7 @@
             "course": "PEA D001.04",
             "CRN": "00862",
             "desc": "ADAPTED TOTAL FITNESS",
-            "status": "Open",
+            "status": "Full",
             "days": "MW",
             "time": "11:20 AM-12:20 PM",
             "start": "06/29/2020",
@@ -13442,7 +13493,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Bennett",
-            "seats": "4",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13461,64 +13512,26 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Regehr",
-            "seats": "13",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "13052": [
-          {
-            "course": "PEA D001.06",
-            "CRN": "13052",
-            "desc": "ADAPTED TOTAL FITNESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "14",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "13054": [
-          {
-            "course": "PEA D001.07",
-            "CRN": "13054",
-            "desc": "ADAPTED TOTAL FITNESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
             "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
         ],
-        "13056": [
+        "13094": [
           {
-            "course": "PEA D001.08",
-            "CRN": "13056",
+            "course": "PEA D001.09",
+            "CRN": "13094",
             "desc": "ADAPTED TOTAL FITNESS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:00 PM-02:00 PM",
             "start": "06/29/2020",
             "end": "08/23/2020",
             "room": "ONLINE",
             "campus": "DA",
             "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "14",
+            "instructor": "Bennett",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13539,7 +13552,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Perkins",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13551,7 +13564,7 @@
             "course": "PEA D002.01",
             "CRN": "00868",
             "desc": "ADAPTD STRNGTH DEVEL",
-            "status": "Open",
+            "status": "Full",
             "days": "TTh",
             "time": "09:00 AM-10:00 AM",
             "start": "06/29/2020",
@@ -13560,7 +13573,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Bennett",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13579,7 +13592,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Bennett",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13636,45 +13649,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Regehr",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "13053": [
-          {
-            "course": "PEA D002.06",
-            "CRN": "13053",
-            "desc": "ADAPTD STRNGTH DEVEL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "15",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "13055": [
-          {
-            "course": "PEA D002.07",
-            "CRN": "13055",
-            "desc": "ADAPTD STRNGTH DEVEL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "15",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13695,7 +13670,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Regehr",
-            "seats": "8",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13707,7 +13682,7 @@
             "course": "PEA D004.02",
             "CRN": "00874",
             "desc": "ADAPTD CARDIOVSCLR TRAING",
-            "status": "Open",
+            "status": "Full",
             "days": "MW",
             "time": "09:00 AM-10:00 AM",
             "start": "06/29/2020",
@@ -13716,7 +13691,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Bennett",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13735,7 +13710,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Bennett",
-            "seats": "5",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13751,7 +13726,7 @@
             "course": "PHIL D001.61Z",
             "CRN": "12516",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13760,7 +13735,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -13829,7 +13804,7 @@
             "course": "PHIL D004.61Z",
             "CRN": "12519",
             "desc": "CRITICAL THINKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13839,7 +13814,7 @@
             "units": "4.00",
             "instructor": "Hanson",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -13867,7 +13842,7 @@
             "course": "PHIL D004.66Z",
             "CRN": "12967",
             "desc": "CRITICAL THINKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13877,7 +13852,7 @@
             "units": "4.00",
             "instructor": "Hammerud",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -13968,7 +13943,7 @@
             "course": "PHTG D004.01Z",
             "CRN": "13062",
             "desc": "INTRO TO DIGITAL PHTG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13978,7 +13953,7 @@
             "units": "3.00",
             "instructor": "Bhattacharji",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -13989,7 +13964,7 @@
             "course": "PHTG D007.61Z",
             "CRN": "11837",
             "desc": "EXPLORNG VISUL EXPRESSN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13999,7 +13974,7 @@
             "units": "4.00",
             "instructor": "Mattick",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -14020,7 +13995,7 @@
             "units": "4.00",
             "instructor": "Pack",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -14100,7 +14075,7 @@
             "course": "POLI D001.01Y",
             "CRN": "12209",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14109,7 +14084,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ovetz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -14195,7 +14170,7 @@
             "course": "POLI D001.67Z",
             "CRN": "12419",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14205,7 +14180,7 @@
             "units": "5.00",
             "instructor": "Tarikh",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -14214,7 +14189,7 @@
             "course": "POLI D001.68Z",
             "CRN": "12624",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14224,7 +14199,7 @@
             "units": "5.00",
             "instructor": "Tarikh",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -14233,7 +14208,7 @@
             "course": "POLI D001.69Z",
             "CRN": "12507",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14242,8 +14217,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ovetz",
-            "seats": "0",
-            "wait_seats": "8",
+            "seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -14254,7 +14229,7 @@
             "course": "POLI D010.01",
             "CRN": "12659",
             "desc": "INTRO TO ADMIN OF JUSTICE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14264,7 +14239,7 @@
             "units": "4.00",
             "instructor": "Lawlor",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -14679,7 +14654,7 @@
             "units": "4.00",
             "instructor": "Park",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -14699,7 +14674,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sherby",
-            "seats": "24",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14720,7 +14695,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hatter",
-            "seats": "17",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14732,7 +14707,7 @@
             "course": "REST D061.61Z",
             "CRN": "12891",
             "desc": "REAL ESTATE INVESTMENTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14741,8 +14716,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Shih",
-            "seats": "10",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -14835,7 +14810,7 @@
             "course": "SOC D020.01",
             "CRN": "10003",
             "desc": "SOCIAL PROBLEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14845,7 +14820,7 @@
             "units": "4.00",
             "instructor": "Dehaan",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -14856,7 +14831,7 @@
             "course": "SOC D054.01",
             "CRN": "12927",
             "desc": "YOUTH AND THE LAW",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14866,14 +14841,14 @@
             "units": "4.00",
             "instructor": "Rudich",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "SOC D054.01",
             "CRN": "12927",
             "desc": "YOUTH AND THE LAW",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "10:00 AM-10:50 AM",
             "start": "06/29/2020",
@@ -14883,7 +14858,7 @@
             "units": "4.00",
             "instructor": "Rudich",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -14907,7 +14882,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Kaufman",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14928,7 +14903,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Kaufman",
-            "seats": "9",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14949,7 +14924,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kaufman",
-            "seats": "12",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14965,7 +14940,7 @@
             "course": "THEA D001.01",
             "CRN": "12662",
             "desc": "APPREC OF THEATRE",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14975,7 +14950,7 @@
             "units": "4.00",
             "instructor": "Gallegos",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -15000,7 +14975,7 @@
             "units": "4.00",
             "instructor": "Coronado",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "5",
             "wait_cap": "35"
           }
         ],
@@ -15019,7 +14994,7 @@
             "units": "4.00",
             "instructor": "Coronado",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "11",
             "wait_cap": "35"
           }
         ]
@@ -15040,7 +15015,7 @@
             "units": "4.00",
             "instructor": "Alvarez",
             "seats": "0",
-            "wait_seats": "24",
+            "wait_seats": "16",
             "wait_cap": "35"
           }
         ],
@@ -15059,7 +15034,7 @@
             "units": "4.00",
             "instructor": "Alvarez",
             "seats": "0",
-            "wait_seats": "24",
+            "wait_seats": "22",
             "wait_cap": "35"
           }
         ]
@@ -15070,7 +15045,7 @@
             "course": "WMST D025.1SZ",
             "CRN": "12804",
             "desc": "INTRO TO BLACK FEMINISM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -15080,7 +15055,7 @@
             "units": "4.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
